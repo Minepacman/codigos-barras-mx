@@ -1,7 +1,7 @@
 # codigos-barras-mx
 
 Catálogo libre de códigos de barras (EAN-13 / UPC-A / EAN-8) de productos que se venden en
-México, pensado para puntos de venta de tiendas de abarrotes como
+México, pensado para puntos de venta de tiendas de abarrotes como el desarrollado por mi 
 [Punto-Ventas](https://github.com/Minepacman/Punto-Ventas). Se construye automáticamente a
 partir de [Open Food Facts](https://world.openfoodfacts.org) y sus proyectos hermanos
 (Open Beauty Facts, Open Pet Food Facts, Open Products Facts), más una lista curada a mano en
