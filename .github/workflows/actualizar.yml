@@ -1,0 +1,95 @@
+name: Actualizar catálogo
+
+on:
+  schedule:
+    # Lunes 09:00 UTC (03:00 hora del centro de México). La exportación de OFF se regenera a diario.
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+    inputs:
+      estrategia:
+        description: "Estrategia de descarga (auto = Parquet y, si falla, API de búsqueda)"
+        default: auto
+        type: choice
+        options: [auto, parquet, busqueda]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-catalogo
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - name: Código
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+
+      - name: Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Dependencias
+        run: pip install -r requirements.txt
+
+      - name: Pruebas
+        run: python -m pytest -q
+
+      - name: Validar extra/manual.csv
+        run: python scripts/validar_manual.py extra/manual.csv
+
+      - name: Descargar productos de México (Open Food Facts y proyectos hermanos)
+        env:
+          # Opcional: token de Hugging Face (secreto HF_TOKEN) para límites más amplios en el Parquet.
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/descargar.py --salida build/crudo --estrategia "${{ inputs.estrategia || 'auto' }}"
+
+      - name: Generar catálogo y fragmentos
+        id: generar
+        run: |
+          n=$(python scripts/generar.py --crudo build/crudo --manual extra/manual.csv | tail -1)
+          echo "productos=$n" >> "$GITHUB_OUTPUT"
+
+      - name: Empaquetar para el Release
+        run: python scripts/empaquetar.py --salida build/release
+
+      - name: Confirmar cambios
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add datos api
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el catálogo"
+            echo "cambios=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "Actualización semanal del catálogo (${{ steps.generar.outputs.productos }} productos)"
+          git push
+          echo "cambios=true" >> "$GITHUB_OUTPUT"
+
+      - name: Publicar Release
+        if: steps.commit.outputs.cambios == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          fecha=$(date -u +%Y-%m-%d)
+          etiqueta="v$fecha"
+          if gh release view "$etiqueta" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            etiqueta="v$fecha-$(date -u +%H%M)"
+          fi
+          gh release create "$etiqueta" \
+            --repo "$GITHUB_REPOSITORY" \
+            --target "$(git rev-parse HEAD)" \
+            --title "Catálogo $fecha (${{ steps.generar.outputs.productos }} productos)" \
+            --notes "Catálogo de códigos de barras de México generado el $fecha con ${{ steps.generar.outputs.productos }} productos. Contiene información de Open Food Facts, disponible bajo la Open Database License (ODbL). Checksums en SHA256SUMS.txt." \
+            build/release/catalogo-mx.csv.gz \
+            build/release/catalogo-mx.jsonl.gz \
+            build/release/version.json \
+            build/release/SHA256SUMS.txt

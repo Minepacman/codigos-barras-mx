@@ -1,0 +1,5 @@
+codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizado
+# Ejemplos (las lineas que empiezan con # se ignoran). Categorias validas: Bebidas, Botanas, Lacteos, Panaderia, Abarrotes,
+# Limpieza, Higiene personal, Dulces, Enlatados, Congelados, Carnes y embutidos, Mascotas, Bebes, Otros.
+# 7501055300075,Coca-Cola 355 ml,Coca-Cola,355,ml,355 ml,Bebidas,,manual,2026-11-12
+# 7501000111541,Pan Blanco Grande,Bimbo,680,g,680 g,Panaderia,,manual,2026-11-12

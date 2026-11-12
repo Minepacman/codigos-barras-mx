@@ -1,0 +1,9 @@
+build/
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+*.gz
+*.sha256
+.DS_Store
