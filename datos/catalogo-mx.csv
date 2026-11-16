@@ -261,6 +261,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0021136415476,Sangría Light,Tipo Chico,,,,Bebidas,https://images.openfoodfacts.org/images/products/002/113/641/5476/front_en.3.200.jpg,off,2026-04-07
 0021143331530,Pickled Tomatoes,Garden Made,,,,Otros,,off,2026-04-02
 0021500011860,sal de ajo,Lawry's,935,g,935g,Abarrotes,https://images.openfoodfacts.org/images/products/002/150/001/1860/front_es.14.200.jpg,off,2026-04-02
+0021600100495,Queso cheddar,,,,,Lácteos,https://images.openfoodfacts.org/images/products/002/160/010/0495/front_es.3.200.jpg,off,2026-11-12
 0022000004833,Sweet Mint Gum,Orbit,,,,Dulces,https://images.openfoodfacts.org/images/products/002/200/000/4833/front_es.32.200.jpg,off,2026-09-22
 0022000012197,Wrigley's Orbit,Wrigley's,,,,Otros,https://images.openfoodfacts.org/images/products/002/200/001/2197/front_en.7.200.jpg,off,2025-04-08
 0022000287038,0022000287038,,,,,Otros,https://images.openfoodfacts.org/images/products/002/200/028/7038/front_en.3.200.jpg,off,2025-12-22
@@ -270,6 +271,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0022110816975,Skittles,,,,,Otros,https://images.openfoodfacts.org/images/products/002/211/081/6975/front_en.3.200.jpg,off,2026-03-27
 00228169,sopa de fideo de pollo Disney,Great Value,95,g,95 g,Abarrotes,https://images.openfoodfacts.org/images/products/00228169/front_es.5.200.jpg,off,2026-04-02
 0023254117010,Aceite de Coco Orgánico,Hain Pure Foods,1.5,l,"1,5 L",Abarrotes,https://images.openfoodfacts.org/images/products/002/325/411/7010/front_es.3.200.jpg,off,2026-04-02
+0023415074213,Café combate olla descafeinado,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/002/341/507/4213/front_es.3.200.jpg,off,2026-11-12
 0023700047601,Nuggets de Pechuga de Pollo Tyson,Tyson,708,g,708 g,Congelados,https://images.openfoodfacts.org/images/products/002/370/004/7601/front_es.10.200.jpg,off,2026-04-02
 0023700061270,Chiefs Nuggets,Tyson,,,,Carnes y embutidos,,off,2026-03-21
 00240000,chilorio de pavo,sinaloa,,,,Carnes y embutidos,,off,2025-04-04
@@ -303,7 +305,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0024515040627,Café jim beam,,12,oz,12 oz,Abarrotes,https://images.openfoodfacts.org/images/products/002/451/504/0627/front_en.3.200.jpg,off,2026-10-29
 0025046150137,Bocadin,,10.5,g,"10,5 g",Dulces,https://images.openfoodfacts.org/images/products/002/504/615/0137/front_es.33.200.jpg,off,2026-03-27
 0025046501052,Bocadín Sabor a chocolate,Bocadin,50,pz,50 piezas,Panadería,https://images.openfoodfacts.org/images/products/002/504/650/1052/front_es.12.200.jpg,off,2026-07-07
-0025293001503,Almond Milk,Silk,1.89,l,1.89 L,Lácteos,https://images.openfoodfacts.org/images/products/002/529/300/1503/front_en.158.200.jpg,off,2026-11-09
+0025293001503,Almond Milk,Silk,1.89,l,1.89 L,Lácteos,https://images.openfoodfacts.org/images/products/002/529/300/1503/front_en.158.200.jpg,off,2026-11-13
 0025293002661,Leche Almendra,Silk,946,ml,946 ml,Lácteos,https://images.openfoodfacts.org/images/products/002/529/300/2661/front_es.7.200.jpg,off,2026-04-02
 0025293002678,Silk almendra vainilla,Silk,946,ml,946ml,Lácteos,https://images.openfoodfacts.org/images/products/002/529/300/2678/front_es.27.200.jpg,off,2026-04-02
 0025293002906,Leche de Almendras sin Azúcar,Silk,1,l,1 L c/u,Lácteos,,off,2026-04-02
@@ -444,6 +446,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0037600225144,Cargando…,Skippy,1.36,kg,"1,36 kg",Abarrotes,https://images.openfoodfacts.org/images/products/003/760/022/5144/front_es.4.200.jpg,off,2026-04-02
 0037600256773,Skippy Creamy Peanut Butter,Skippy,16.3,oz,16.3 oz,Abarrotes,https://images.openfoodfacts.org/images/products/003/760/025/6773/front_en.20.200.jpg,off,2026-06-12
 0037600256889,Creamy Peanut Butter,Skippy,,,,Abarrotes,https://images.openfoodfacts.org/images/products/003/760/025/6889/front_fr.4.200.jpg,off,2026-10-28
+0037600400701,Spam carne de cerdo y pollo horneada,,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/003/760/040/0701/front_es.3.200.jpg,off,2026-11-12
 0037600427937,Turkey chili,American classics,,,,Carnes y embutidos,,off,2026-06-09
 0037600453653,Spam Baked Meat,Hormel,198,g,198 g,Enlatados,https://images.openfoodfacts.org/images/products/003/760/045/3653/front_es.13.200.jpg,off,2026-04-02
 0037836040191,jalea real crema,Grisi,,,,Lácteos,,off,2024-06-04
@@ -713,7 +716,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0041449111407,Harina preparada para pastel vateado con canela,Krusteaz,595,g,595 gr,Abarrotes,https://images.openfoodfacts.org/images/products/004/144/911/1407/front_es.11.200.jpg,off,2026-08-23
 0041449300139,Harina preparada para pastelistos sabor mora azul,Krusteaz,384,g,384 gr,Abarrotes,https://images.openfoodfacts.org/images/products/004/144/930/0139/front_es.9.200.jpg,off,2026-07-27
 0041449302546,Harina preparada para pastelillos estilo brownies,Ghirardelli,531,g,531 gr,Abarrotes,https://images.openfoodfacts.org/images/products/004/144/930/2546/front_es.10.200.jpg,off,2026-03-27
-0041449402277,Harina preparada para pastelitos sabor plátano con nuez,Krusteaz,436,g,436 gr,Abarrotes,https://images.openfoodfacts.org/images/products/004/144/940/2277/front_es.10.200.jpg,off,2026-04-02
+0041449402277,Harina preparada para pastelitos sabor plátano con nuez,Krusteaz,436,g,436 gr,Abarrotes,https://images.openfoodfacts.org/images/products/004/144/940/2277/front_es.10.200.jpg,off,2026-11-15
 0041449471495,Harina completa preparada para hot cakes con sabor a moras,Krusteaz,714,g,714 gr,Abarrotes,https://images.openfoodfacts.org/images/products/004/144/947/1495/front_es.10.200.jpg,off,2026-04-02
 0041449471501,Complete pancake mix buttermilk,Krusteaz,714,g,714 gr,Abarrotes,https://images.openfoodfacts.org/images/products/004/144/947/1501/front_es.10.200.jpg,off,2026-04-21
 0041449471549,Harina preparada para pastelitos con arándano y naranja,Krusteaz,527,g,527 g,Abarrotes,https://images.openfoodfacts.org/images/products/004/144/947/1549/front_es.7.200.jpg,off,2026-04-02
@@ -752,7 +755,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0041789001918,Maruchan Instant Lunch Sabor a Pollo,Maruchan,64,g,64 g,Abarrotes,https://images.openfoodfacts.org/images/products/004/178/900/1918/front_es.25.200.jpg,off,2026-06-04
 0041789001925,Maruchan,Maruchan,64,g,64 g,Abarrotes,https://images.openfoodfacts.org/images/products/004/178/900/1925/front_es.17.200.jpg,off,2026-04-02
 0041789001956,Instant Lunch Con Camarón,Maruchan,64,g,64 g,Carnes y embutidos,https://images.openfoodfacts.org/images/products/004/178/900/1956/front_es.48.200.jpg,off,2026-07-21
-0041789001987,Instant Lunch Con Camarón y Chile Piquín,Maruchan,64,g,64 g,Abarrotes,https://images.openfoodfacts.org/images/products/004/178/900/1987/front_es.35.200.jpg,off,2026-03-31
+0041789001987,Instant Lunch Con Camarón y Chile Piquín,Maruchan,64,g,64 g,Abarrotes,https://images.openfoodfacts.org/images/products/004/178/900/1987/front_es.53.200.jpg,off,2026-11-15
 0041789002960,Maruchan Ramen,Maruchan,85,g,85g,Abarrotes,https://images.openfoodfacts.org/images/products/004/178/900/2960/front_es.18.200.jpg,off,2026-10-27
 0041789002977,maruchan,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/004/178/900/2977/front_en.3.200.jpg,off,2025-08-24
 0041789003912,Bowl Sabor a Pollo,Maruchan,93.9,g,93.9g,Abarrotes,https://images.openfoodfacts.org/images/products/004/178/900/3912/front_es.5.200.jpg,off,2026-04-02
@@ -842,6 +845,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0048121901004,English Muffin,Thomas’,,,,Panadería,,off,2026-04-02
 0048200005814,chocotorro,,,,,Otros,https://images.openfoodfacts.org/images/products/04858124/front_es.4.200.jpg,off,2020-04-11
 0048573365973,Tortilla para Enchilada,Cedros,450,g,450 gr,Panadería,https://images.openfoodfacts.org/images/products/004/857/336/5973/front_es.3.200.jpg,off,2026-04-02
+0048707444093,Salsa con queso di blanco,,,,,Lácteos,https://images.openfoodfacts.org/images/products/004/870/744/4093/front_es.3.200.jpg,off,2026-11-12
 0049000077858,coca cola,,,,,Bebidas,https://images.openfoodfacts.org/images/products/004/900/007/7858/front_en.3.200.jpg,off,2026-04-01
 0049200904305,Azucar Mascabado Domino,Domino,,,,Abarrotes,https://images.openfoodfacts.org/images/products/004/920/090/4305/front_en.3.200.jpg,off,2021-10-02
 0049505090703,leche,nutrí leche,1.5,l,1.5 litros,Lácteos,https://images.openfoodfacts.org/images/products/004/950/509/0703/front_es.3.200.jpg,off,2026-04-02
@@ -1050,7 +1054,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0072140032050,bloqueador complete 50,coppertone,,,,Higiene personal,https://images.openfoodfacts.org/images/products/007/214/003/2050/front_ru.4.200.jpg,off,2026-04-02
 0072180634290,Pizza 4 Quesos Red Baron,Red Baron,597,g,597 g,Congelados,https://images.openfoodfacts.org/images/products/007/218/063/4290/front_es.8.200.jpg,off,2026-11-12
 0072180634719,Supreme Pizza Red Baron,Red Baron,664,g,664 g,Congelados,https://images.openfoodfacts.org/images/products/007/218/063/4719/front_es.10.200.jpg,off,2026-06-02
-0072180634733,Classic Crust Pizza de Peperoni,Red Baron,583,g,583 g,Carnes y embutidos,https://images.openfoodfacts.org/images/products/007/218/063/4733/front_es.7.200.jpg,off,2026-10-31
+0072180634733,Classic Crust Pizza de Peperoni,Red Baron,583,g,583 g,Carnes y embutidos,https://images.openfoodfacts.org/images/products/007/218/063/4733/front_es.7.200.jpg,off,2026-11-14
 0072250020749,Thick Sliced White Bread,Nature's Own,624,g,"22 oz., 1lb 6oz, 624 g",Abarrotes,https://images.openfoodfacts.org/images/products/007/225/002/0749/front_en.48.200.jpg,off,2026-03-12
 0072250020756,Perfectly Crafted Multigrain,Nature's Own,22,oz,22 oz,Abarrotes,https://images.openfoodfacts.org/images/products/007/225/002/0756/front_en.80.200.jpg,off,2026-06-03
 0072250023641,hot dog buns,butter krust,8,,8,Mascotas,https://images.openfoodfacts.org/images/products/007/225/002/3641/front_es.9.200.jpg,off,2026-05-31
@@ -1150,10 +1154,10 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0076840003488,Cherry Garcia Ice Cream,Ben & Jerry's,,,,Congelados,https://images.openfoodfacts.org/images/products/007/684/000/3488/front_en.3.200.jpg,off,2026-04-02
 0076840100149,Nieve New York Super Fudge Chunk Ben & Jerry´s,Ben & Jerry's,473,ml,473 ml,Congelados,https://images.openfoodfacts.org/images/products/007/684/010/0149/front_es.10.200.jpg,off,2026-08-23
 0076840100156,Helado Cherry Garcia Ben & Jerry´s,Ben & Jerry's,1,,1 pt,Congelados,https://images.openfoodfacts.org/images/products/007/684/010/0156/front_es.3.200.jpg,off,2026-05-30
-0076840100354,Chunky Monkey,Ben & Jerry's,473,ml,473 ml,Congelados,https://images.openfoodfacts.org/images/products/007/684/010/0354/front_es.32.200.jpg,off,2026-04-02
+0076840100354,Chunky Monkey,Ben & Jerry's,473,ml,473 ml,Congelados,https://images.openfoodfacts.org/images/products/007/684/010/0354/front_es.32.200.jpg,off,2026-11-15
 0076840100583,Helado Chocolate Chip Cookie Dough Ben & Jerry´s,Ben & Jerry's,473,ml,473 ml,Congelados,https://images.openfoodfacts.org/images/products/007/684/010/0583/front_es.9.200.jpg,off,2026-11-11
-0076840485116,The Tonight Dough,Ben & Jerry's,473,ml,473 ml,Congelados,https://images.openfoodfacts.org/images/products/007/684/048/5116/front_en.37.200.jpg,off,2026-10-20
-0076840529872,Helado Ben & Jerry´s Brownie Batter Core,Ben & Jerry's Core,1,,1 pint,Congelados,https://images.openfoodfacts.org/images/products/007/684/052/9872/front_en.30.200.jpg,off,2026-08-23
+0076840485116,The Tonight Dough,Ben & Jerry's,473,ml,473 ml,Congelados,https://images.openfoodfacts.org/images/products/007/684/048/5116/front_en.37.200.jpg,off,2026-11-12
+0076840529872,Helado Ben & Jerry´s Brownie Batter Core,Ben & Jerry's Core,1,,1 pint,Congelados,https://images.openfoodfacts.org/images/products/007/684/052/9872/front_en.30.200.jpg,off,2026-11-14
 0076840551941,"Core, Ice Cream, Cookies & Cream Cheesecake",Ben & Jerry's,473,ml,473 ml,Congelados,https://images.openfoodfacts.org/images/products/007/684/055/1941/front_es.10.200.jpg,off,2026-04-02
 0076840580798,Helado Coconuts for Caramel Core Ben & Jerry´s,Ben & Jerry's,473,ml,473 ml,Congelados,https://images.openfoodfacts.org/images/products/007/684/058/0798/front_en.12.200.jpg,off,2026-08-20
 0076840657940,Pint Slices Chocolate Fudge Brownies Ben & Jerry's,Ben % Jerry's,266,ml,266 ml,Congelados,https://images.openfoodfacts.org/images/products/007/684/065/7940/front_es.9.200.jpg,off,2026-04-02
@@ -1352,7 +1356,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0094331400257,Granola Arándanos y Mora Azul,Granvita,350,g,350g,Abarrotes,https://images.openfoodfacts.org/images/products/009/433/140/0257/front_es.15.200.jpg,off,2026-04-02
 0094331401506,Granola Orgánica Granvita,Granvita,350,g,350 g,Abarrotes,https://images.openfoodfacts.org/images/products/009/433/140/1506/front_es.8.200.jpg,off,2026-04-02
 0094331410560,"Granvita, Granola Cereal With Fruit",Grupo Industrial Vida S.A. De C.V,400,g,400 g,Abarrotes,https://images.openfoodfacts.org/images/products/009/433/141/0560/front_es.4.200.jpg,off,2026-05-14
-0094331412007,Granola con 9 Semillas,Granvita,350,g,350 g,Abarrotes,https://images.openfoodfacts.org/images/products/009/433/141/2007/front_es.18.200.jpg,off,2026-04-02
+0094331412007,Granola con 9 Semillas,Granvita,350,g,350 g,Abarrotes,https://images.openfoodfacts.org/images/products/009/433/141/2007/front_es.23.200.jpg,off,2026-11-14
 0094331412052,Biocereal,Granvita,180,g,180 g,Abarrotes,https://images.openfoodfacts.org/images/products/009/433/141/2052/front_es.3.200.jpg,off,2026-03-27
 0094331412205,Garnola gourmet,granvita,,,,Abarrotes,https://images.openfoodfacts.org/images/products/009/433/141/2205/front_fr.3.200.jpg,off,2026-04-29
 0094331421313,Oats Avena,Granvita,400,g,400 g,Abarrotes,https://images.openfoodfacts.org/images/products/009/433/142/1313/front_es.22.200.jpg,off,2026-04-02
@@ -1370,7 +1374,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0095200003227,Chocolate,Nestle,360,g,360 g,Dulces,https://images.openfoodfacts.org/images/products/09532227/front_es.8.200.jpg,off,2026-04-02
 0095411001876,Mini Conos De Helado,Brothers Ice Cream,,,,Congelados,https://images.openfoodfacts.org/images/products/009/541/100/1876/front_es.3.200.jpg,off,2026-06-08
 00963503,"Lemon rosemary Chicken, Potato, Dill Carrot",Central Market Meals,,,,Carnes y embutidos,,off,2026-06-30
-0096619000081,Leche Parcialmente Descremada Kirkland,Kirkland Signature,3.78,l,"3,78 L",Abarrotes,https://images.openfoodfacts.org/images/products/009/661/900/0081/front_es.199.200.jpg,off,2026-10-28
+0096619000081,Leche Parcialmente Descremada Kirkland,Kirkland Signature,3.78,l,"3,78 L",Abarrotes,https://images.openfoodfacts.org/images/products/009/661/900/0081/front_es.199.200.jpg,off,2026-11-15
 0096619001996,Pasta De Tomate,Kirkland,,,,Abarrotes,https://images.openfoodfacts.org/images/products/009/661/900/1996/front_es.4.200.jpg,off,2026-04-02
 0096619002054,Tomates En Cubos orgánicos,Kirkland,,,,Otros,,off,2026-04-02
 0096619002061,Salsa de tomate,Kirkland,,,,Abarrotes,https://images.openfoodfacts.org/images/products/009/661/900/2061/front_es.6.200.jpg,off,2026-04-02
@@ -1450,6 +1454,9 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0096619988495,Hhjk,Kirkland,,,,Otros,https://images.openfoodfacts.org/images/products/009/661/998/8495/front_fr.3.200.jpg,off,2026-04-02
 0097338000581,café blasón expreso robusto,blasón,900,g,900 gr,Bebidas,https://images.openfoodfacts.org/images/products/009/733/800/0581/front_es.4.200.jpg,off,2023-04-23
 0097338030106,Blasón café de altura premium tostado y molido,,12,oz,12 oz,Abarrotes,https://images.openfoodfacts.org/images/products/009/733/803/0106/front_en.3.200.jpg,off,2026-10-28
+0097338030168,Café blazon,,12,oz,12 oz,Abarrotes,https://images.openfoodfacts.org/images/products/009/733/803/0168/front_es.3.200.jpg,off,2026-11-12
+0097338030250,Blasón orgánico,,12,oz,12 oz,Otros,https://images.openfoodfacts.org/images/products/009/733/803/0250/front_es.3.200.jpg,off,2026-11-12
+0097338032438,Blasón americano café,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/009/733/803/2438/front_es.3.200.jpg,off,2026-11-12
 0097338034067,Blason expresso,,,,,Otros,https://images.openfoodfacts.org/images/products/009/733/803/4067/front_es.4.200.jpg,off,2026-03-13
 0097339000030,Salsa Valentina,Valentina,1,l,1 litro,Abarrotes,https://images.openfoodfacts.org/images/products/009/733/900/0030/front_es.13.200.jpg,off,2026-11-09
 0097339000054,Salsa Picante,Salsa Tamazula S.A. De C.V.,370,ml,370ml,Abarrotes,https://images.openfoodfacts.org/images/products/009/733/900/0054/front_es.63.200.jpg,off,2026-11-09
@@ -1692,6 +1699,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0441079300057,Deliciosa 600ml,,,,,Otros,https://images.openfoodfacts.org/images/products/044/107/930/0057/front_en.3.200.jpg,off,2025-10-11
 0441254400114,Delixia pay de queso,,,,,Lácteos,,off,2026-07-25
 0443645520302,Not Snack Bar Proteín,NotCo,,,,Botanas,,off,2026-04-02
+0445266000058,La zona expreso robusto,,,,,Otros,https://images.openfoodfacts.org/images/products/044/526/600/0058/front_es.3.200.jpg,off,2026-11-12
 0450041727105,Harina de Maíz Maseca,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/045/004/172/7105/front_en.3.200.jpg,off,2026-02-04
 0451224761206,Crema original Lala 417g,,,,,Lácteos,https://images.openfoodfacts.org/images/products/045/122/476/1206/front_en.3.200.jpg,off,2026-03-10
 0460453037563,Modelo 0% dorada botella,,,,,Otros,https://images.openfoodfacts.org/images/products/046/045/303/7563/front_en.3.200.jpg,off,2025-11-08
@@ -1766,6 +1774,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0545424971586,Cacahuate Blanco Tostado,Saladino,300,g,300 g,Botanas,https://images.openfoodfacts.org/images/products/054/542/497/1586/front_es.9.200.jpg,off,2026-04-02
 0545435664378,Be light,,,,,Otros,https://images.openfoodfacts.org/images/products/054/543/566/4378/front_en.3.200.jpg,off,2026-03-05
 0546085121808,7506174506681,,,,,Otros,https://images.openfoodfacts.org/images/products/054/608/512/1808/front_en.3.200.jpg,off,2025-07-10
+0546415074200,Café combate molido lavado,,500,g,500 g,Abarrotes,https://images.openfoodfacts.org/images/products/054/641/507/4200/front_es.3.200.jpg,off,2026-11-13
 0547644604213,Jarrito tamarindo,,,,,Dulces,https://images.openfoodfacts.org/images/products/054/764/460/4213/front_en.3.200.jpg,off,2025-12-28
 0561010201226,Frijol Grano de oro 450g,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/056/101/020/1226/front_en.3.200.jpg,off,2025-05-14
 0561297671712,Guarnición De Verduras,Great Value,,,,Abarrotes,https://images.openfoodfacts.org/images/products/056/129/767/1712/front_es.3.200.jpg,off,2026-04-02
@@ -2166,6 +2175,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0679097001759,Carne Seca,Tía Lencha,,,,Carnes y embutidos,,off,2026-04-02
 0679844103620,Hot Cakes Enriquecidos con Proteína,Premier Protein,,,,Panadería,https://images.openfoodfacts.org/images/products/067/984/410/3620/front_es.3.200.jpg,off,2026-05-05
 0680699139535,Iso Protein,Ultra Pure Supps,,,,Abarrotes,,off,2026-10-27
+0681034000060,Café la finca,,12,oz,12 oz,Abarrotes,https://images.openfoodfacts.org/images/products/068/103/400/0060/front_es.3.200.jpg,off,2026-11-12
 0681131036481,cafe,marca sams,1,kg,1kg,Bebidas,https://images.openfoodfacts.org/images/products/068/113/103/6481/front_es.3.200.jpg,off,2025-12-08
 0681131077637,Arándanos,Member’s Mark,1.02,kg,1.02 kg,Abarrotes,https://images.openfoodfacts.org/images/products/068/113/107/7637/front_es.16.200.jpg,off,2026-04-02
 0681131077668,Papas con sal de mar Sams Club,Member's Mark,750,,750,Abarrotes,https://images.openfoodfacts.org/images/products/068/113/107/7668/front_es.9.200.jpg,off,2026-04-02
@@ -2439,6 +2449,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0733109382776,Salsa Arrabiata,Ammorialimentos,,,,Abarrotes,,off,2026-08-14
 0733739069023,Organic Confectioner's Erythritol,NOW® Real Food,,,,Abarrotes,https://images.openfoodfacts.org/images/products/073/373/906/9023/front_es.4.200.jpg,off,2024-06-19
 0733913010261,Barra de proteína Detour,Detour,43,g,43g,Abarrotes,https://images.openfoodfacts.org/images/products/073/391/301/0261/front_es.23.200.jpg,off,2026-04-02
+0734448000529,Complejo B Reforzado,,,,,Otros,https://images.openproductsfacts.org/images/products/073/444/800/0529/front_es.3.200.jpg,opf,2026-11-12
 0734448001335,Purgante rojo,,,,,Otros,https://images.openfoodfacts.org/images/products/073/444/800/1335/front_en.4.200.jpg,off,2026-11-01
 0734448060615,Polivit-G,,,,,Otros,https://images.openproductsfacts.org/images/products/073/444/806/0615/front_es.3.200.jpg,opf,2026-11-06
 0734448061056,Iverfull polvo,,,,,Abarrotes,https://images.openproductsfacts.org/images/products/073/444/806/1056/front_es.3.200.jpg,opf,2026-11-06
@@ -2526,13 +2537,14 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0739944010102,Palanqueta mixta,Las Sevillanas,50,g,50 g,Dulces,https://images.openfoodfacts.org/images/products/073/994/401/0102/front_es.40.200.jpg,off,2026-04-02
 0739944011123,Cajeta Quemada,Tito Cajetito,,,,Dulces,,off,2026-04-02
 0739944011574,Pollo con Mole Rojo,,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/073/994/401/1574/front_es.3.200.jpg,off,2021-04-26
+0739944012144,Pulled beef bbq,,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/073/994/401/2144/front_es.3.200.jpg,off,2026-11-12
 0739944012489,Oblea guayaba,,,,,Panadería,https://images.openfoodfacts.org/images/products/073/994/401/2489/front_en.5.200.jpg,off,2026-07-15
 0740085000501,Chachitos,Chachitos S.A. de C.V,200,g,200g,Abarrotes,https://images.openfoodfacts.org/images/products/074/008/500/0501/front_es.3.200.jpg,off,2026-04-02
 0740085000600,Cereal Chachitos trigo inflado,Chachitos,250,g,250g,Abarrotes,https://images.openfoodfacts.org/images/products/074/008/500/0600/front_es.12.200.jpg,off,2026-04-02
 0740085250135,Chachitos,Chachitos,250,g,250 g,Abarrotes,https://images.openfoodfacts.org/images/products/074/008/525/0135/front_en.27.200.jpg,off,2026-04-02
 0740859032899,Dipirona microsules,,,,,Otros,https://images.openproductsfacts.org/images/products/074/085/903/2899/front_es.3.200.jpg,opf,2026-11-06
 0741120000005,Clarasol 1 L,,,,,Otros,,off,2026-03-10
-0742033312308,Whey Protein Choco Avellana,God's Nutrition,,,,Abarrotes,https://images.openfoodfacts.org/images/products/074/203/331/2308/front_en.3.200.jpg,off,2026-10-26
+0742033312308,Whey Protein Choco Avellana,God's Nutrition,,,,Abarrotes,https://images.openfoodfacts.org/images/products/074/203/331/2308/front_en.3.200.jpg,off,2026-11-14
 0742033312315,God's Whey Protein,God's Nutrition,,,,Abarrotes,https://images.openfoodfacts.org/images/products/074/203/331/2315/front_en.3.200.jpg,off,2026-04-02
 0742033312322,Whey Protein Caramelo,God's Nutrition,,,,Dulces,,off,2026-04-02
 0742033315149,Clear Amino (BCAAs/EAAs/HMB),Clear Nutrition,,,,Otros,https://images.openfoodfacts.org/images/products/074/203/331/5149/front_en.8.200.jpg,off,2026-04-02
@@ -2907,6 +2919,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0760573092634,Palomitas Cheddar Blanco,Cashitas,,,,Botanas,,off,2026-04-02
 0760573092672,Palomitas Con Sal Marina,Cashita's,,,,Botanas,,off,2026-04-02
 0760573092931,Pepita de Calabaza Horneada,Cashita's,,,,Otros,,off,2026-07-21
+0760573094287,Cashitas japonés 60g,,,,,Otros,,off,2026-11-12
 0760573096205,Rub Para Carnes Blancas,Modelo,,,,Carnes y embutidos,,off,2026-08-06
 0761746000302,Refresco sabor manzana (Apple Soda),Manzana de California,,,,Bebidas,https://images.openfoodfacts.org/images/products/076/174/600/0302/front_en.3.200.jpg,off,2026-04-02
 0761898716748,Octopus,Save Plus,908,g,908 g,Otros,https://images.openfoodfacts.org/images/products/076/189/871/6748/front_la.3.200.jpg,off,2026-04-26
@@ -2916,7 +2929,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0763825000074,Mango Congelado,Royal Foods,,,,Congelados,,off,2026-04-02
 0763825000081,Mora Azul Congelada,Royal Foods,,,,Congelados,https://images.openfoodfacts.org/images/products/076/382/500/0081/front_pt.3.200.jpg,off,2026-04-02
 0763913830224,Baguette Carnes Frias,Kirlunch,,,,Carnes y embutidos,,off,2026-04-02
-0764009047984,piña colada,Bamboo,1,,1,Bebidas,https://images.openfoodfacts.org/images/products/076/400/904/7984/front_es.3.200.jpg,off,2026-04-02
+0764009047984,piña colada,Bamboo,1,,1,Bebidas,https://images.openfoodfacts.org/images/products/076/400/904/7984/front_es.3.200.jpg,off,2026-11-12
 0764009053619,Smirnoff guayaba,,,,,Otros,https://images.openfoodfacts.org/images/products/076/400/905/3619/front_en.5.200.jpg,off,2025-09-06
 0764014813574,Salchicha de pollo con espinaca y queso feta,Aidells,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/076/401/481/3574/front_es.6.200.jpg,off,2026-04-02
 0764451004436,Protein Powder,Cosmonova,,,,Abarrotes,https://images.openfoodfacts.org/images/products/076/445/100/4436/front_en.3.200.jpg,off,2026-04-02
@@ -2934,7 +2947,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0767743000222,Jugo Orgánico de Manzana,Pomita,,,,Bebidas,,off,2026-04-02
 0769361100001,Germinado de Alfalfa,San Francisco,200,g,200g,Otros,https://images.openfoodfacts.org/images/products/076/936/110/0001/front_fr.4.200.jpg,off,2026-04-02
 0769361100261,Alfalfa con Italiano,San Francisco,80,g,80g,Abarrotes,https://images.openfoodfacts.org/images/products/076/936/110/0261/front_es.3.200.jpg,off,2026-04-02
-0769493100139,GU Mandarin orange,GU,32,g,32 g,Otros,https://images.openfoodfacts.org/images/products/076/949/310/0139/front_en.28.200.jpg,off,2026-11-03
+0769493100139,GU Mandarin orange,GU,32,g,32 g,Otros,https://images.openfoodfacts.org/images/products/076/949/310/0139/front_en.28.200.jpg,off,2026-11-14
 0769575005598,climate,tresemme,,,,Higiene personal,,obf,2026-08-12
 0769949658573,instinct original,nature's variety,2,kg,2.0 kg,Mascotas,https://images.openpetfoodfacts.org/images/products/076/994/965/8573/front_es.4.200.jpg,opff,2019-04-20
 0770981830216,Galletas Glaseadas,Kimberleys,,,,Panadería,,off,2026-04-02
@@ -2948,6 +2961,8 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0781100122617,Agua De Limón Con Chía,Malia,,,,Bebidas,,off,2026-04-02
 0781100122631,Malia,,,,,Otros,https://images.openfoodfacts.org/images/products/078/110/012/2631/front_fr.3.200.jpg,off,2022-06-23
 0781100169292,70% Chocolate Barks,Holents,,,,Dulces,https://images.openfoodfacts.org/images/products/078/110/016/9292/front_en.3.200.jpg,off,2026-04-02
+0781138709118,Dipotanero salsa chunky,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/078/113/870/9118/front_es.4.200.jpg,off,2026-11-12
+0781138802154,Salsa con queso,on The Border,,,,Lácteos,https://images.openfoodfacts.org/images/products/078/113/880/2154/front_es.12.200.jpg,off,2026-11-12
 0781159036910,Obleas de amaranto sabor Cappuccino,Kalan,60,g,2 oz / 60 g,Panadería,https://images.openfoodfacts.org/images/products/078/115/903/6910/front_es.7.200.jpg,off,2026-04-02
 0781159045486,Paleta De Coco Base Agua,Helados Regia,,,,Dulces,,off,2026-04-02
 0781159063671,Kaiosama Whey,Myo Vector,,,,Abarrotes,,off,2026-04-02
@@ -3135,7 +3150,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0810990006902,Agua De Coco Natural Organica 330 ML,Acapulcoco,,,,Bebidas,https://images.openfoodfacts.org/images/products/081/099/000/6902/front_es.18.200.jpg,off,2026-10-15
 0811355002140,Queso Mozzarella,Rumiano,,,,Lácteos,,off,2026-04-02
 0811355002157,Queso Monterrey Jack,Rumiano,,,,Lácteos,,off,2026-04-02
-0811662020004,The m,PVL,,,,Otros,https://images.openfoodfacts.org/images/products/081/166/202/0004/front_en.8.200.jpg,off,2026-11-02
+0811662020004,The m,PVL,,,,Otros,https://images.openfoodfacts.org/images/products/081/166/202/0004/front_en.8.200.jpg,off,2026-11-14
 0811662020080,Whey Protein Vanilla Ice Cream,Mutant,,,,Congelados,https://images.openfoodfacts.org/images/products/081/166/202/0080/front_en.8.200.jpg,off,2026-03-03
 0811836024159,Hydro 100,Usplabs,,,,Otros,https://images.openfoodfacts.org/images/products/081/183/602/4159/front_en.3.200.jpg,off,2026-04-02
 0812397018540,Smoked Venison and Pork Sausage,Prasek’s,14,oz,14 oz,Carnes y embutidos,https://images.openfoodfacts.org/images/products/081/239/701/8540/front_en.8.200.jpg,off,2026-04-15
@@ -3169,7 +3184,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0818290010438,Yogurt Chobani estilo griego,Chobani,907,g,907 g,Lácteos,https://images.openfoodfacts.org/images/products/081/829/001/0438/front_en.6.200.jpg,off,2026-03-12
 0818290015600,Yogurt sin azúcar añadido Cherry Berry,Chobani,7,oz,7 oz,Lácteos,https://images.openfoodfacts.org/images/products/081/829/001/5600/front_es.35.200.jpg,off,2026-03-17
 0818290015617,15G Protein Tropical Punch,Chobani,7,fl oz,7 fl oz,Lácteos,https://images.openfoodfacts.org/images/products/081/829/001/5617/front_en.193.200.jpg,off,2026-11-07
-0818290017734,20g Protein Zero Added Sugar Mixed Berry Vanilla,Chobani,296,ml,10 fl oz (296ml),Lácteos,https://images.openfoodfacts.org/images/products/081/829/001/7734/front_en.510.200.jpg,off,2026-10-30
+0818290017734,20g Protein Zero Added Sugar Mixed Berry Vanilla,Chobani,296,ml,10 fl oz (296ml),Lácteos,https://images.openfoodfacts.org/images/products/081/829/001/7734/front_en.510.200.jpg,off,2026-11-13
 0818290018014,Blueberry blended yogurt,Chobani,,,,Lácteos,https://images.openfoodfacts.org/images/products/081/829/001/8014/front_fr.3.200.jpg,off,2026-04-02
 0818290018304,Yogur,Chona ni,5.3,oz,5.3 oz,Lácteos,https://images.openfoodfacts.org/images/products/081/829/001/8304/front_es.41.200.jpg,off,2026-06-02
 0818290018571,Greek Yogurt Vanilla Flavored,Chobani Zero Sugar,30,oz,30 oz,Lácteos,https://images.openfoodfacts.org/images/products/081/829/001/8571/front_en.139.200.jpg,off,2026-10-28
@@ -3393,6 +3408,8 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0894700010137,Greek Yogurt Nonfat Plain,chobani,32,oz,32 OZ,Lácteos,https://images.openfoodfacts.org/images/products/089/470/001/0137/front_en.838.200.jpg,off,2026-10-20
 0894700010434,Greek Yogurt Whole Milk Plain,Chobani,907,g,907g (32 OZ),Lácteos,https://images.openfoodfacts.org/images/products/089/470/001/0434/front_en.91.200.jpg,off,2026-10-30
 0895634000065,Vegan Glucosamine MSM & CMO,Deva,,,,Higiene personal,https://images.openfoodfacts.org/images/products/089/563/400/0065/front_fr.4.200.jpg,off,2021-08-19
+0896425607821,Taktic,,,,,Otros,https://images.openproductsfacts.org/images/products/089/642/560/7821/front_es.3.200.jpg,opf,2026-11-12
+0898412862626,Impacto Pulverización,,,,,Otros,https://images.openproductsfacts.org/images/products/089/841/286/2626/front_es.3.200.jpg,opf,2026-11-12
 0899438001037,Strawberry - Super Sour Belts,Sweet & Sour,,,,Otros,https://images.openfoodfacts.org/images/products/089/943/800/1037/front_en.3.200.jpg,off,2026-04-02
 0899438001068,Sour Belts Blueberry Artificially Flavored Candy,Sweet & Sour,,,,Dulces,https://images.openfoodfacts.org/images/products/089/943/800/1068/front_en.9.200.jpg,off,2026-04-02
 0900050089393,Chicharrones Sabritas,,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/090/005/008/9393/front_en.3.200.jpg,off,2026-10-26
@@ -3405,6 +3422,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 0993350000724,Topo chico,,,,,Otros,https://images.openfoodfacts.org/images/products/099/335/000/0724/front_en.3.200.jpg,off,2026-03-02
 0995002840405,Chavalin,,,,,Otros,https://images.openfoodfacts.org/images/products/099/500/284/0405/front_en.3.200.jpg,off,2025-07-17
 10027462,ESTREPTO gort,,,,,Otros,https://images.openproductsfacts.org/images/products/000/001/002/7462/front_es.6.200.jpg,opf,2026-11-08
+1004043030603,Mantequilla Chilchota,,,,,Lácteos,https://images.openfoodfacts.org/images/products/100/404/303/0603/front_es.3.200.jpg,off,2026-11-13
 1006413140707,Pepsi 1L,,,,,Bebidas,,off,2025-10-14
 10111772,treetop,treetop,2.84,l,2.84 L,Bebidas,,off,2022-05-28
 1042007706836,Aceitunas Verdes con Hueso,Carbonell,350,g,350 g,Bebidas,https://images.openfoodfacts.org/images/products/104/200/770/6836/front_es.8.200.jpg,off,2026-07-06
@@ -3510,8 +3528,10 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 2058944040703,Duo nito 124 gr,,,,,Otros,https://images.openfoodfacts.org/images/products/205/894/404/0703/front_en.3.200.jpg,off,2025-10-22
 2080100002911,Zanahoria,Alsuper,454,g,454 g,Bebidas,https://images.openfoodfacts.org/images/products/208/010/000/2911/front_es.3.200.jpg,off,2026-08-26
 2080104046706,Tortillas sabor mantequilla,Alsuper,8,pz,8 pz,Abarrotes,https://images.openfoodfacts.org/images/products/208/010/404/6706/front_es.4.200.jpg,off,2026-04-02
+2080104942824,Dip de queso amarillo,,,,,Lácteos,https://images.openfoodfacts.org/images/products/208/010/494/2824/front_es.3.200.jpg,off,2026-11-12
 2080105019334,Pan Artesanal de Masa Madre Hogaza Semillas,Farine Lab,,,,Panadería,,off,2026-07-20
 2080105024178,Roar pepinillos rebanados,,,,,Otros,https://images.openfoodfacts.org/images/products/208/010/502/4178/front_en.3.200.jpg,off,2026-10-24
+2080105030872,Dip queso jalapeño,,,,,Lácteos,https://images.openfoodfacts.org/images/products/208/010/503/0872/front_es.3.200.jpg,off,2026-11-12
 2080105161170,Chicharrones Chile Limón,Alsuper,,,,Carnes y embutidos,,off,2026-07-21
 20801298,BiSweet,BiSweet,70,g,70 g,Abarrotes,https://images.openfoodfacts.org/images/products/20801298/front_es.4.200.jpg,off,2026-04-02
 20801748,Quierones Sabor Chile Y Limón,Crakis,,,,Abarrotes,,off,2026-03-26
@@ -3779,7 +3799,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 40014074,Queso Asadero,Agomeza,,,,Lácteos,,off,2026-04-02
 4001434910053,Misión tortillas harina 12,,,,,Panadería,https://images.openfoodfacts.org/images/products/400/143/491/0053/front_en.3.200.jpg,off,2026-10-22
 4002103248354,Cerveza Erdinger Dunkel,,,,,Bebidas,https://images.openfoodfacts.org/images/products/400/210/324/8354/front_en.3.200.jpg,off,2025-09-18
-40052397,"KITKAT 4 Fingers Barre au Chocolat au Lait 41,5g, unitaire",KitKat,41.5,g,41.5 g,Panadería,https://images.openfoodfacts.org/images/products/40052397/front_fr.189.200.jpg,off,2026-11-11
+40052397,"KITKAT 4 Fingers Barre au Chocolat au Lait 41,5g, unitaire",KitKat,41.5,g,41.5 g,Panadería,https://images.openfoodfacts.org/images/products/40052397/front_fr.189.200.jpg,off,2026-11-14
 4005800084508,Eucerin aquaphor,,,,,Higiene personal,https://images.openbeautyfacts.org/images/products/400/580/008/4508/front_en.3.200.jpg,obf,2025-10-11
 4005800137662,Nivea Creme,Nivea,400,ml,400 ml,Higiene personal,https://images.openbeautyfacts.org/images/products/400/580/013/7662/front_es.3.200.jpg,obf,2022-11-27
 4005800178375,Gel de ducha eucerin,,,,,Higiene personal,https://images.openfoodfacts.org/images/products/400/580/017/8375/front_en.3.200.jpg,off,2025-07-18
@@ -3853,6 +3873,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 4501042300128,Dnp fresa 435g,,,,,Otros,https://images.openfoodfacts.org/images/products/450/104/230/0128/front_en.3.200.jpg,off,2026-01-17
 4501076143524,Mafer surtido saldo cacahuate,,,,,Botanas,,off,2025-07-03
 4501121105101,Arroz para Sushi súper extra,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/450/112/110/5101/front_en.3.200.jpg,off,2025-12-14
+4501125832713,Margarina light mi marca,,,,,Lácteos,https://images.openfoodfacts.org/images/products/450/112/583/2713/front_es.3.200.jpg,off,2026-11-13
 4501217681038,Sr Natural Chispas 45g,,,,,Otros,https://images.openfoodfacts.org/images/products/450/121/768/1038/front_en.3.200.jpg,off,2025-10-08
 4501223840054,refresco de toronja sin calorías,Peña fiel,2,l,2 litros,Bebidas,https://images.openfoodfacts.org/images/products/450/122/384/0054/front_es.3.200.jpg,off,2022-08-13
 4501260355375,Mamut Gamesa,,,,,Otros,https://images.openfoodfacts.org/images/products/450/126/035/5375/front_en.3.200.jpg,off,2026-03-04
@@ -3879,6 +3900,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 4501914652805,Canelitas Bites Marinela,Marinela,90,g,90 g,Panadería,https://images.openfoodfacts.org/images/products/450/191/465/2805/front_es.8.200.jpg,off,2026-04-02
 4502021913087,M&m chocolate 120g,,,,,Dulces,https://images.openfoodfacts.org/images/products/450/202/191/3087/front_en.3.200.jpg,off,2025-09-04
 4502077980088,helvetia,helvetia,90,g,90g,Abarrotes,https://images.openfoodfacts.org/images/products/450/207/798/0088/front_es.4.200.jpg,off,2026-04-02
+4502172488038,Nutty Berry Mix,Nature's Heart,,,,Botanas,,off,2026-11-14
 4503043983003,protein bar,green mountain,35,g,35g,Higiene personal,https://images.openfoodfacts.org/images/products/450/304/398/3003/front_es.3.200.jpg,off,2026-04-02
 4503184720055,Mixed Berries,Nature Prime,,,,Otros,,off,2026-04-02
 4503464641520,sofúl,,,,,Abarrotes,,off,2024-11-10
@@ -3889,6 +3911,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 4506033106307,Danonino fresa maxi 6pack,,,,,Lácteos,https://images.openfoodfacts.org/images/products/450/603/310/6307/front_en.3.200.jpg,off,2026-09-06
 4506033109483,Pro Sabor Cookies And Cream,Oikos,,,,Panadería,,off,2026-04-22
 4506055117138,Crunch Rocks 43gr,,,,,Otros,,off,2025-07-20
+4506125123755,Crunch galleta,,,,,Panadería,https://images.openproductsfacts.org/images/products/450/612/512/3755/front_es.3.200.jpg,opf,2026-11-15
 4506468960499,Pan arracada Mawy,,,,,Panadería,https://images.openfoodfacts.org/images/products/450/646/896/0499/front_en.3.200.jpg,off,2026-01-30
 4506486370737,"Sopa Crema Gourmet, Camaron",Knorr,56,g,56 g,Lácteos,https://images.openfoodfacts.org/images/products/450/648/637/0737/front_es.5.200.jpg,off,2026-04-02
 4507948000001,Pay De Calabaza 12”,Kirkland,,,,Otros,,off,2026-04-02
@@ -4052,15 +4075,18 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 5414736059037,Emicina Liquida,,,,,Otros,https://images.openproductsfacts.org/images/products/541/473/605/9037/front_es.3.200.jpg,opf,2026-11-06
 5414736059051,Emicina Liquida,,,,,Otros,https://images.openproductsfacts.org/images/products/541/473/605/9051/front_es.3.200.jpg,opf,2026-11-06
 54148604,salsa tipo inglesa,Crosse & Blackwell,980,ml,980 ml,Abarrotes,https://images.openfoodfacts.org/images/products/54148604/front_es.4.200.jpg,off,2026-04-02
+5420036954422,Vigantol ADE fuerte,,,,,Otros,https://images.openproductsfacts.org/images/products/542/003/695/4422/front_es.3.200.jpg,opf,2026-11-12
 5420036972624,Negasunt polvo,,,,,Abarrotes,https://images.openproductsfacts.org/images/products/542/003/697/2624/front_es.3.200.jpg,opf,2026-11-06
+5420036973201,Asuntol líquido,,,,,Otros,https://images.openproductsfacts.org/images/products/542/003/697/3201/front_es.3.200.jpg,opf,2026-11-12
 5425013395403,Black Beans,Boni Land,,,,Abarrotes,https://images.openfoodfacts.org/images/products/542/501/339/5403/front_en.3.200.jpg,off,2026-04-02
 54347854,Mante Chox,Bimbo,,,,Otros,,off,2026-04-02
-5449000000996,Coca-Cola Original,Coca-cola Services Sa/nv,330,ml,330 ml,Bebidas,https://images.openfoodfacts.org/images/products/544/900/000/0996/front_en.1129.200.jpg,off,2026-11-11
+5449000000996,Coca-Cola Original,Coca-cola Services Sa/nv,330,ml,330 ml,Bebidas,https://images.openfoodfacts.org/images/products/544/900/000/0996/front_en.1129.200.jpg,off,2026-11-12
 5449000053565,Coca Cola Light,Coca-Cola,1.5,l,"1,5 L",Bebidas,https://images.openfoodfacts.org/images/products/544/900/005/3565/front_fr.56.200.jpg,off,2026-03-20
 5500015718266,cheerios chocolate,Nestlé,430,g,430g,Abarrotes,https://images.openfoodfacts.org/images/products/550/001/571/8266/front_es.3.200.jpg,off,2026-04-02
 5500678051717,Sabritas,,,,,Botanas,https://images.openproductsfacts.org/images/products/550/067/805/1717/front_en.3.200.jpg,opf,2026-10-08
 5501211130944,Cheetos,Sabritas,110,g,110g,Botanas,https://images.openfoodfacts.org/images/products/550/121/113/0944/front_es.3.200.jpg,off,2023-01-02
 5501222016169,Sting,,,,,Otros,https://images.openproductsfacts.org/images/products/550/122/201/6169/front_en.3.200.jpg,opf,2026-11-02
+5501232395902,Oikos griego con coco 150 g,,,,,Lácteos,https://images.openfoodfacts.org/images/products/550/123/239/5902/front_es.3.200.jpg,off,2026-11-14
 5501233960468,Fórmula para alimentación enteral especializada. Dieta polimerica con HMB,Ensure Advanced,237,ml,237 ml,Higiene personal,https://images.openfoodfacts.org/images/products/550/123/396/0468/front_es.3.200.jpg,off,2026-04-02
 5501255379941,Fresca 2l,,,,,Otros,,off,2025-07-01
 5501273400719,Maseca 570g,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/550/127/340/0719/front_en.3.200.jpg,off,2025-05-16
@@ -4112,6 +4138,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 56189209,Mini Bagel,New York Deli & Bagel,450,g,450g,Abarrotes,https://images.openfoodfacts.org/images/products/56189209/front_es.4.200.jpg,off,2026-04-02
 56234817,veggi veggi chips,natures heart,142,g,142 g,Botanas,https://images.openfoodfacts.org/images/products/56234817/front_es.4.200.jpg,off,2026-04-02
 5690548868511,Omega-3 Forte,Lysi,,,,Otros,https://images.openfoodfacts.org/images/products/569/054/886/8511/front_no.3.200.jpg,off,2026-04-02
+5704980680256,Juan Valdez,,,,,Otros,https://images.openfoodfacts.org/images/products/570/498/068/0256/front_es.3.200.jpg,off,2026-11-12
 5711953047329,Queso tipo Chihuahua Aria,Aria,400,g,400g,Lácteos,https://images.openfoodfacts.org/images/products/571/195/304/7329/front_es.4.200.jpg,off,2026-04-02
 5711953047633,Queso Gouda,Arla,400,g,400G,Lácteos,https://images.openfoodfacts.org/images/products/571/195/304/7633/front_es.9.200.jpg,off,2026-04-02
 5740900400443,Mantequilla,Lurpak,200,g,200 G,Abarrotes,https://images.openfoodfacts.org/images/products/574/090/040/0443/front_es.7.200.jpg,off,2026-04-02
@@ -4529,6 +4556,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7500326286148,Pretzels,Autenta Foods,1,kg,1 kg,Botanas,https://images.openfoodfacts.org/images/products/750/032/628/6148/front_es.18.200.jpg,off,2026-08-04
 7500326289309,tostadas fritas de maíz blanco,San Mateo,275,g,275 g,Botanas,https://images.openfoodfacts.org/images/products/750/032/628/9309/front_en.3.200.jpg,off,2026-06-13
 7500326289316,Tostadas,,,,,Panadería,https://images.openfoodfacts.org/images/products/750/032/628/9316/front_en.3.200.jpg,off,2026-05-05
+7500326289323,Tostadas san mateo 210g,,,,,Panadería,https://images.openfoodfacts.org/images/products/750/032/628/9323/front_es.3.200.jpg,off,2026-11-12
 7500326289330,San Mateo Tostadas Maíz Azul,,210,g,210g,Panadería,https://images.openfoodfacts.org/images/products/750/032/628/9330/front_es.3.200.jpg,off,2026-05-23
 7500326289767,Salsa Marisquera,Maria Altanera,,,,Abarrotes,,off,2025-03-22
 7500326297809,Palomitas slim pop,Palomitas,110,g,110g,Botanas,https://images.openfoodfacts.org/images/products/750/032/629/7809/front_es.3.200.jpg,off,2026-04-02
@@ -4793,6 +4821,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7500435133531,Flujo abuntante,Always,,,,Higiene personal,,opf,2026-07-02
 7500435137737,pasta de dienta 2.00,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/043/513/7737/front_en.3.200.jpg,off,2026-10-13
 7500435138048,desodorante,Old spice,,,,Higiene personal,,obf,2026-08-07
+7500435138680,Toallas Femeninas Naturella Nocturna,,,,,Higiene personal,https://images.openproductsfacts.org/images/products/750/043/513/8680/front_es.3.200.jpg,opf,2026-11-14
 7500435138758,Ace,Procter & Gamble,800,g,800g,Limpieza,https://images.openfoodfacts.org/images/products/750/043/513/8758/front_es.5.200.jpg,off,2025-10-01
 7500435138772,Ariel,Ariel,,,,Limpieza,https://images.openfoodfacts.org/images/products/750/043/513/8772/front_es.3.200.jpg,off,2026-09-01
 7500435138802,Ariel,Ariel,,,,Limpieza,https://images.openfoodfacts.org/images/products/750/043/513/8802/front_es.3.200.jpg,off,2026-09-01
@@ -4848,6 +4877,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7500435169028,Seven Seas Cod Liver Oil,,,,,Higiene personal,https://images.openfoodfacts.org/images/products/750/043/516/9028/front_en.3.200.jpg,off,2026-08-20
 7500435169035,Espuma moldeadora jazmín,Herbal Essences,210,ml,210ml,Abarrotes,https://images.openfoodfacts.org/images/products/750/043/516/9035/front_es.10.200.jpg,off,2026-07-13
 7500435169615,Ultragrip,Gillette,,,,Higiene personal,https://images.openbeautyfacts.org/images/products/750/043/516/9615/front_es.4.200.jpg,obf,2025-09-04
+7500435171212,"Herbal Essences bio:renew Crema para peinar, Argán y Aloe, Reparación Anti-frizz",Herbal Essences,,,,Higiene personal,https://images.openbeautyfacts.org/images/products/750/043/517/1212/front_es.3.200.jpg,obf,2026-11-14
 7500435172134,desodorante,secret,,,,Higiene personal,,obf,2026-08-08
 7500435176477,Oral-b aceite de coco y carbon,,29,,29,Higiene personal,https://images.openbeautyfacts.org/images/products/750/043/517/6477/front_es.3.200.jpg,obf,2025-05-17
 7500435176484,Pasta Dental (Oral-B),,30,g,30.0 g,Higiene personal,,obf,2025-08-09
@@ -5113,6 +5143,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7500462836238,Yoghurt de coco zahini 125,Zahini,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/046/283/6238/front_es.3.200.jpg,off,2026-03-28
 7500462836245,Yoghurt de coco zarzamora zahini,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/046/283/6245/front_es.3.200.jpg,off,2024-04-30
 7500462836252,Yoghurt de coco mango zahini,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/046/283/6252/front_es.3.200.jpg,off,2025-05-27
+7500462836276,Zahini Vainilla,Z,,,,Abarrotes,,off,2026-11-15
 7500462836283,Producto fermentado vainilla Zahini,Zahini,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/046/283/6283/front_es.8.200.jpg,off,2026-03-28
 7500462836290,Producto fermentado fresa Zahini,Zahini,,,,Otros,https://images.openfoodfacts.org/images/products/750/046/283/6290/front_es.3.200.jpg,off,2026-03-28
 7500462841713,Huevo Fresco de Libre Pastoreo NutriCampo,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/046/284/1713/front_en.3.200.jpg,off,2023-09-03
@@ -5360,6 +5391,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7500464254412,Whole Fresh Medjool Dates,,227,g,227 g,Otros,https://images.openfoodfacts.org/images/products/750/046/425/4412/front_en.3.200.jpg,off,2022-03-31
 7500464254429,Fresh Medjool Dates,,340,g,340 g,Otros,https://images.openfoodfacts.org/images/products/750/046/425/4429/front_en.6.200.jpg,off,2026-04-02
 7500464254436,Coconut Medjool Date Rolls,Sonora Valley,227,g,227 g,Otros,https://images.openfoodfacts.org/images/products/750/046/425/4436/front_en.7.200.jpg,off,2026-04-02
+7500464259943,Café tostado mo,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/046/425/9943/front_es.3.200.jpg,off,2026-11-12
 7500464286215,Chíaluka,La Ruta Natural,25,g,25 g,Higiene personal,https://images.openfoodfacts.org/images/products/750/046/428/6215/front_es.4.200.jpg,off,2022-02-12
 7500464290304,Kombucha mandolin Jamaica,,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/046/429/0304/front_es.3.200.jpg,off,2024-02-20
 7500464290311,Mandolín kombucha jengibre,Mándolin Kombucha,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/046/429/0311/front_es.4.200.jpg,off,2026-09-09
@@ -6248,6 +6280,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7500525571762,mac & cheese al pesto,Valley foods,184,g,184g,Lácteos,https://images.openfoodfacts.org/images/products/750/052/557/1762/front_es.3.200.jpg,off,2026-02-16
 7500525577726,Queso Ibérico Semicurado,Valley Foods,,,,Lácteos,,off,2026-04-02
 7500525594259,Fresh Queso Crema,Valley Foods,,,,Lácteos,,off,2026-04-02
+7500525594273,Queso americano valley foods,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/052/559/4273/front_es.3.200.jpg,off,2026-11-12
 7500525607720,Perlas multicolores,Valley Foods,99,g,99 g,Otros,,off,2025-11-20
 7500525607744,Perlas pastel cupcake,Organizacion Soriana s a b de c v,,,,Panadería,https://images.openfoodfacts.org/images/products/750/052/560/7744/front_es.3.200.jpg,off,2026-10-01
 7500525608994,Fresh Chile Mulato,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/052/560/8994/front_fr.3.200.jpg,off,2026-08-26
@@ -6442,7 +6475,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7500608001162,Choco Rice Cakes Cranberry,Okko,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/060/800/1162/front_en.3.200.jpg,off,2024-07-01
 7500608001278,Cacao Nibs,Okko,,,,Otros,,off,2026-04-02
 7500608001520,Chía superfoods,Okko,1,kg,1kg,Botanas,https://images.openfoodfacts.org/images/products/750/060/800/1520/front_es.3.200.jpg,off,2026-04-02
-7500608001650,Quinoa rice cake,Okko,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/060/800/1650/front_en.18.200.jpg,off,2026-11-09
+7500608001650,Quinoa rice cake,Okko,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/060/800/1650/front_en.18.200.jpg,off,2026-11-12
 7500608001667,Quinoa Rice Cake - Okko - Okko,Okko Superfoods,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/060/800/1667/front_en.6.200.jpg,off,2026-04-02
 7500608001704,Hemp,Okko,,,,Otros,,off,2026-04-02
 7500608001858,Mix De Berries,Okko Superfoods,,,,Botanas,https://images.openfoodfacts.org/images/products/750/060/800/1858/front_fr.8.200.jpg,off,2026-04-02
@@ -6820,6 +6853,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7500810046586,Pix queso barcel,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/081/004/6586/front_en.3.200.jpg,off,2026-07-04
 7500810046593,Botana de maíz sabor chile y limón,Takis,,,,Botanas,https://images.openfoodfacts.org/images/products/750/081/004/6593/front_en.3.200.jpg,off,2026-09-13
 7500810046609,Takis Pix,Barcel,,,,Botanas,,off,2026-04-02
+7500810046890,Takis Buckin Ranch,Barcel,190,g,190 g,Botanas,,off,2026-11-12
 7500810046937,Bridgerton galleta,,,,,Panadería,,off,2026-06-01
 7500810046951,Tostqdas Para Mariscos,Milpa Real,,,,Carnes y embutidos,,off,2026-04-25
 7500810047071,Choco Roles - Cereza,Marinela,,,,Panadería,,off,2026-04-02
@@ -7619,7 +7653,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501006532753,Ensalada De Verduras,Del Monte,400,g,400 g,Enlatados,https://images.openfoodfacts.org/images/products/750/100/653/2753/front_es.5.200.jpg,off,2026-03-12
 7501006532807,Ensalada Campesina,Del Monte,,,,Enlatados,https://images.openfoodfacts.org/images/products/750/100/653/2807/front_es.5.200.jpg,off,2026-04-02
 7501006532814,Ensalada campesina,Del Monte,215,g,215 g,Enlatados,https://images.openfoodfacts.org/images/products/750/100/653/2814/front_es.18.200.jpg,off,2026-09-19
-7501006535303,Elote dorado en granos,Del Monte,400,g,400 g,Enlatados,https://images.openfoodfacts.org/images/products/750/100/653/5303/front_es.6.200.jpg,off,2026-08-17
+7501006535303,Elote dorado en granos,Del Monte,400,g,400 g,Enlatados,https://images.openfoodfacts.org/images/products/750/100/653/5303/front_es.6.200.jpg,off,2026-11-13
 7501006535549,Del Monte Chicharos,Del Monte,,,,Otros,,off,2026-05-26
 7501006536713,Chicharos,Del Monte,,,,Otros,https://images.openfoodfacts.org/images/products/750/100/653/6713/front_fr.5.200.jpg,off,2026-03-26
 7501006536942,Elote Dorado En Granos,Del Monte,,,,Enlatados,https://images.openfoodfacts.org/images/products/750/100/653/6942/front_es.7.200.jpg,off,2026-08-03
@@ -7885,7 +7919,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501008040737,Corn Flakes El Original,Kellogg's,70,g,70g,Otros,https://images.openfoodfacts.org/images/products/750/100/804/0737/front_es.3.200.jpg,off,2026-08-23
 7501008040768,Corn Flakes,Kellogg's,,,,Otros,https://images.openfoodfacts.org/images/products/750/100/804/0768/front_en.3.200.jpg,off,2025-08-24
 7501008040775,kellogs choco krispi,Kellogg's,,,,Otros,https://images.openfoodfacts.org/images/products/750/100/804/0775/front_es.9.200.jpg,off,2026-09-23
-7501008040799,Froot loops,,,,,Otros,https://images.openfoodfacts.org/images/products/750/100/804/0799/front_fr.3.200.jpg,off,2026-09-03
+7501008040799,Froot loops,,,,,Otros,https://images.openfoodfacts.org/images/products/750/100/804/0799/front_en.10.200.jpg,off,2026-11-12
 7501008040805,kellogs choco crispi malva,Kellogg's,,,,Otros,https://images.openfoodfacts.org/images/products/750/100/804/0805/front_es.3.200.jpg,off,2025-05-01
 7501008040812,kellogs zucaritad malvas,Kellogg's,,,,Otros,https://images.openfoodfacts.org/images/products/750/100/804/0812/front_es.5.200.jpg,off,2026-03-28
 7501008040836,Zucaritas Marshmallows,Kellogg's,,,,Otros,https://images.openfoodfacts.org/images/products/750/100/804/0836/front_en.3.200.jpg,off,2026-08-14
@@ -8312,7 +8346,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501011153462,Quesabritas,,,,,Otros,https://images.openfoodfacts.org/images/products/750/101/115/3462/front_es.14.200.jpg,off,2026-03-27
 7501011153950,Kacang,Sabritas,171,g,171 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/115/3950/front_es.9.200.jpg,off,2026-04-02
 7501011154865,Paketaxo Botanero,Sabritas,270,g,270 g,Botanas,https://images.openfoodfacts.org/images/products/750/101/115/4865/front_es.22.200.jpg,off,2026-11-01
-7501011154902,Pake-taxo Sabritas Botana Mezcladito Mezcladito,Sabritas,280,g,280 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/115/4902/front_es.37.200.jpg,off,2026-09-13
+7501011154902,Pake-taxo Sabritas Botana Mezcladito Mezcladito,Sabritas,280,g,280 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/115/4902/front_es.37.200.jpg,off,2026-11-12
 7501011155008,Pake Taxo Quexo,sabritas,215,g,215 g,Botanas,https://images.openfoodfacts.org/images/products/750/101/115/5008/front_es.43.200.jpg,off,2026-10-27
 7501011155022,Paketaxo,Doritos,,,,Otros,https://images.openfoodfacts.org/images/products/750/101/115/5022/front_en.3.200.jpg,off,2026-06-09
 7501011155343,Cheetos palomitas,Sabritas,29,g,29g,Botanas,https://images.openfoodfacts.org/images/products/750/101/115/5343/front_es.6.200.jpg,off,2026-09-03
@@ -8405,6 +8439,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501011391338,V8 jugo de verduras,Campbells,1,l,1 L,Bebidas,https://images.openfoodfacts.org/images/products/750/101/139/1338/front_es.8.200.jpg,off,2026-04-02
 7501011395206,Sopa de Lentejas,Campbell's,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/139/5206/front_en.3.200.jpg,off,2026-11-04
 7501011654785,Cacahuete estilo japones,,,,,Otros,https://images.openfoodfacts.org/images/products/750/101/165/4785/front_es.3.200.jpg,off,2026-03-27
+7501011714458,Jeeps ahora cebolla francesa,,,,,Otros,https://images.openfoodfacts.org/images/products/750/101/171/4458/front_es.3.200.jpg,off,2026-11-12
 7501012440028,Sciroppo d’agave,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/244/0028/front_it.3.200.jpg,off,2026-03-30
 7501012800020,Guacamaya,Guacamaya,365,ml,365 ml,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/280/0020/front_es.14.200.jpg,off,2026-04-02
 7501012800037,Salsa,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/280/0037/front_fr.3.200.jpg,off,2026-04-02
@@ -8527,7 +8562,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501013105520,Jugo de manzana,,,,,Bebidas,,off,2026-04-02
 7501013105537,Jugo de durazno,Jumex,413,ml,413ml,Bebidas,https://images.openfoodfacts.org/images/products/750/101/310/5537/front_es.28.200.jpg,off,2026-09-03
 7501013105544,Jumex Guayaba Vidrio 413 ml,Jumex,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/101/310/5544/front_en.4.200.jpg,off,2026-03-06
-7501013105551,Jugo de mango,Jumex,413,ml,413 ml,Bebidas,https://images.openfoodfacts.org/images/products/750/101/310/5551/front_es.11.200.jpg,off,2026-04-17
+7501013105551,Jugo De Mango,Jumex,413,ml,413 ml,Bebidas,https://images.openfoodfacts.org/images/products/750/101/310/5551/front_es.26.200.jpg,off,2026-11-15
 7501013105568,230529,Jugó Jumex,,,,Otros,https://images.openfoodfacts.org/images/products/750/101/310/5568/front_en.3.200.jpg,off,2026-04-02
 7501013105582,Jugo de Durazno,Jumex,,,,Bebidas,,off,2026-10-09
 7501013105599,Mango De Cajita,Jumex,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/310/5599/front_es.18.200.jpg,off,2026-08-30
@@ -8544,6 +8579,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501013105810,kermato,Jumex,413,ml,413ml,Otros,https://images.openfoodfacts.org/images/products/750/101/310/5810/front_es.3.200.jpg,off,2026-10-26
 7501013105827,jumex ponche 475 ml,Comercializadora Eloro sa,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/101/310/5827/front_es.3.200.jpg,off,2026-10-15
 7501013105834,Ponche,junex,960,ml,960ml,Bebidas,https://images.openfoodfacts.org/images/products/750/101/310/5834/front_fr.3.200.jpg,off,2026-03-26
+7501013105841,Jumex Ami 591ml,,,,,Bebidas,,off,2026-11-12
 7501013105858,Ami sabor manzana,jumex,,,,Otros,https://images.openfoodfacts.org/images/products/750/101/310/5858/front_es.3.200.jpg,off,2026-03-19
 7501013106077,XOT Energy,Jumex,470,ml,470ml,Otros,https://images.openfoodfacts.org/images/products/750/101/310/6077/front_en.6.200.jpg,off,2026-04-02
 7501013106213,Xot Energy Dark Cool,Jumex,470,ml,470ml,Otros,https://images.openfoodfacts.org/images/products/750/101/310/6213/front_en.8.200.jpg,off,2026-04-02
@@ -8669,6 +8705,8 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501016441014,Korumi mango con chile,,306,g,306g,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/644/1014/front_es.3.200.jpg,off,2024-12-02
 7501016441113,komiru chamoy con chile,,,,,Dulces,,off,2023-01-08
 7501016722328,Cafe,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/672/2328/front_fr.3.200.jpg,off,2022-08-09
+7501016745273,Café el marino,,400,g,400 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/674/5273/front_es.3.200.jpg,off,2026-11-12
+7501016747031,Café Marino,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/674/7031/front_es.3.200.jpg,off,2026-11-12
 7501017002030,Chipotles Adobados,La Costena,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/700/2030/front_fr.5.200.jpg,off,2026-03-26
 7501017003006,Jalapeño enteros,La costeña,780,g,780g,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/700/3006/front_en.5.200.jpg,off,2025-03-07
 7501017003020,Chiles en rajas,la costeña,440,g,440gr,Enlatados,https://images.openfoodfacts.org/images/products/750/101/700/3020/front_es.5.200.jpg,off,2025-12-23
@@ -8844,6 +8882,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501017052264,Puré De Tomate Con Chipotle,La Costeña,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/705/2264/front_fr.3.200.jpg,off,2026-04-02
 7501017052349,Ensalada de verduras,La costeña,410,g,con. net. 410g masa drennada 195g,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/705/2349/front_es.6.200.jpg,off,2026-04-02
 7501017052363,Cochinita Pibil,La Costeña,,,,Otros,https://images.openfoodfacts.org/images/products/750/101/705/2363/front_ro.3.200.jpg,off,2026-04-02
+7501017052370,La Costeña mole con pollo,,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/750/101/705/2370/front_es.3.200.jpg,off,2026-11-12
 7501017053032,Mostaza,La Costeña,,,,Abarrotes,,off,2026-04-02
 7501017055685,Mayonesa con chipotle,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/705/5685/front_en.3.200.jpg,off,2025-06-26
 7501017056699,Mayonesa squizz,La costeña,260,,260,Abarrotes,https://images.openfoodfacts.org/images/products/750/101/705/6699/front_es.3.200.jpg,off,2026-03-28
@@ -9338,6 +9377,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501020567670,Batido manzana nutri 120g,Nutri,,,,Otros,https://images.openfoodfacts.org/images/products/750/102/056/7670/front_es.3.200.jpg,off,2023-08-04
 7501020567717,Bebible nutri fresa,,,,,Otros,https://images.openfoodfacts.org/images/products/750/102/056/7717/front_es.3.200.jpg,off,2023-07-28
 7501020567724,Bebible nutri durazno,,,,,Otros,https://images.openfoodfacts.org/images/products/750/102/056/7724/front_es.3.200.jpg,off,2023-07-28
+7501020567755,Yogurt nutri piña coco,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/102/056/7755/front_es.6.200.jpg,off,2026-11-13
 7501020567762,Nutri 8 pack,,,,,Otros,https://images.openfoodfacts.org/images/products/750/102/056/7762/front_es.3.200.jpg,off,2025-07-24
 7501020567830,Nutri yogurt fresa y cereales,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/102/056/7830/front_en.3.200.jpg,off,2025-05-25
 7501020567847,Nutri yogurt sabor nuez y cereales 450g,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/102/056/7847/front_en.4.200.jpg,off,2026-04-02
@@ -9498,7 +9538,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501022015384,Manzanita Sol,Pepsi,1.5,l,1.5 l,Bebidas,https://images.openfoodfacts.org/images/products/750/102/201/5384/front_es.19.200.jpg,off,2026-04-02
 7501022015391,manzanita,,,,,Otros,,off,2025-10-20
 7501022015407,Gatorlyte,Gatorde,,,,Otros,https://images.openfoodfacts.org/images/products/750/102/201/5407/front_en.3.200.jpg,off,2026-04-02
-7501022015421,Be light fresa moras,Be light,1,l,1lt,Abarrotes,https://images.openfoodfacts.org/images/products/750/102/201/5421/front_es.3.200.jpg,off,2026-07-22
+7501022015421,Be light fresa moras,Be light,1,l,1lt,Abarrotes,https://images.openfoodfacts.org/images/products/750/102/201/5421/front_es.3.200.jpg,off,2026-11-12
 7501022015438,Kick,Pepsi,,,,Otros,https://images.openfoodfacts.org/images/products/750/102/201/5438/front_en.4.200.jpg,off,2026-08-01
 7501022015445,Línea Pepsi 3lt,,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/102/201/5445/front_en.3.200.jpg,off,2026-02-01
 7501022015513,Manzanita 400,Pepsi,400,ml,400ml,Otros,https://images.openfoodfacts.org/images/products/750/102/201/5513/front_es.3.200.jpg,off,2026-08-05
@@ -9591,7 +9631,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501023507130,Chilorio De Pavo,Chata,215,g,215 g,Carnes y embutidos,https://images.openfoodfacts.org/images/products/750/102/350/7130/front_es.16.200.jpg,off,2026-06-28
 7501023507147,Cochinita Pibil 100% Carne de Cerdo,Chata,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/750/102/350/7147/front_es.10.200.jpg,off,2026-03-27
 7501023507154,Chilorio de Soya,Chata,215,g,215gr,Abarrotes,https://images.openfoodfacts.org/images/products/750/102/350/7154/front_es.9.200.jpg,off,2026-06-04
-7501023507161,Chilorio De Pollo,Chata,,,,Carnes y embutidos,,off,2026-04-02
+7501023507161,Chilorio de pollo 100%,Chata,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/750/102/350/7161/front_es.8.200.jpg,off,2026-11-12
 7501023507277,Frijoles refritos con chipotle,Chata,,,,Abarrotes,,off,2026-04-02
 7501023507574,Carnitas,Chata,,,,Otros,https://images.openfoodfacts.org/images/products/750/102/350/7574/front_fr.3.200.jpg,off,2026-03-26
 7501023507963,Chilorio Cerdo Lata,chata,120,g,120gr,Enlatados,https://images.openfoodfacts.org/images/products/750/102/350/7963/front_es.3.200.jpg,off,2026-02-04
@@ -9613,7 +9653,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501023510864,Cochinita pibil,Chata,215,,215,Otros,https://images.openfoodfacts.org/images/products/750/102/351/0864/front_es.7.200.jpg,off,2026-03-28
 7501023511106,Burrito de machaca,La chata,140,g,140 gr,Otros,https://images.openfoodfacts.org/images/products/750/102/351/1106/front_es.3.200.jpg,off,2026-10-27
 7501023511212,Chicharron De Cerdo,Chata,,,,Carnes y embutidos,,off,2025-02-23
-7501023511649,BBQ Pulled Pork,Chata,,,,Carnes y embutidos,,off,2026-04-02
+7501023511649,Chata barbecue,Chata,,,,Otros,https://images.openfoodfacts.org/images/products/750/102/351/1649/front_es.5.200.jpg,off,2026-11-12
 7501023511717,Chata chor ranchero,,,,,Otros,https://images.openfoodfacts.org/images/products/750/102/351/1717/front_en.3.200.jpg,off,2025-05-28
 7501023511724,Chorizo de soya,Chata,430,g,430g,Carnes y embutidos,https://images.openfoodfacts.org/images/products/750/102/351/1724/front_es.5.200.jpg,off,2025-12-06
 7501023513124,Burrito pizza,,,,,Otros,https://images.openfoodfacts.org/images/products/750/102/351/3124/front_en.7.200.jpg,off,2026-01-14
@@ -9993,7 +10033,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501030458135,Natura crackers,bimbo,,,,Panadería,https://images.openfoodfacts.org/images/products/750/103/045/8135/front_es.8.200.jpg,off,2026-03-27
 7501030458296,Bollos artesanos,Bimbo,480,g,480 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/103/045/8296/front_es.5.200.jpg,off,2026-04-02
 7501030458807,polvoroncitos tía rosa,tía Rosa,20,pz,20 pz,Panadería,https://images.openfoodfacts.org/images/products/750/103/045/8807/front_es.6.200.jpg,off,2026-04-02
-7501030458814,Polvoroncitos caseros,Tía Rosa,,,,Panadería,https://images.openfoodfacts.org/images/products/750/103/045/8814/front_es.8.200.jpg,off,2026-04-02
+7501030458814,Polvoroncitos caseros,Tía Rosa,,,,Panadería,https://images.openfoodfacts.org/images/products/750/103/045/8814/front_es.8.200.jpg,off,2026-11-13
 7501030459200,Galleta con relleno sabor a chocolate galleta sandwich,Marinela,378,g,378g,Panadería,https://images.openfoodfacts.org/images/products/750/103/045/9200/front_es.3.200.jpg,off,2026-04-02
 7501030459620,Multigrano arandanos y sabor fresa,Bimbo,204,g,204 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/103/045/9620/front_es.5.200.jpg,off,2026-04-02
 7501030459736,Karameladas Pop,Barcel,120,g,120g,Botanas,https://images.openfoodfacts.org/images/products/750/103/045/9736/front_es.27.200.jpg,off,2026-10-02
@@ -10353,6 +10393,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501033957376,Pedialyte Max,Pedialyte,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/103/395/7376/front_en.7.200.jpg,off,2026-05-22
 7501033957383,Similac total comfort,similac,360,g,360gr,Otros,,off,2026-04-02
 7501033959318,Similac sensitive,,,,,Otros,https://images.openfoodfacts.org/images/products/750/103/395/9318/front_es.3.200.jpg,off,2023-01-22
+7501033959950,Pedialyte Active sabor manzana,Pedialyte,,,,Otros,https://images.openfoodfacts.org/images/products/750/103/395/9950/front_en.3.200.jpg,off,2026-11-14
 7501033960468,Ensure Advance,Ensure,,,,Otros,https://images.openfoodfacts.org/images/products/750/103/396/0468/front_es.6.200.jpg,off,2026-10-31
 7501033961151,Bebida con electrolitos sabor cereza,Pedialyte Active,,,,Higiene personal,,off,2026-01-29
 7501033961540,fedelite,abbott,,,,Otros,,off,2025-08-18
@@ -10750,7 +10791,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501040083815,Queso Manchego,Fud,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/104/008/3815/front_it.4.200.jpg,off,2026-04-02
 7501040083884,Queso tipo manchego rebanadas redondas,FUD,190,g,190 g,Lácteos,https://images.openfoodfacts.org/images/products/750/104/008/3884/front_es.7.200.jpg,off,2026-04-02
 7501040084393,Medias Lunas Manchego,La villita,150,g,150g,Abarrotes,https://images.openfoodfacts.org/images/products/750/104/008/4393/front_es.6.200.jpg,off,2026-04-02
-7501040084492,Queso Americano Imitación,La Villita,,,,Lácteos,,off,2026-04-02
+7501040084492,Queso americano la villita 12 pz,La Villita,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/104/008/4492/front_es.5.200.jpg,off,2026-11-12
 7501040084614,Queso Panela,La Villita,,,,Lácteos,,off,2026-04-02
 7501040084621,Queso Americano,Fud,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/104/008/4621/front_it.6.200.jpg,off,2026-04-02
 7501040084669,Queso Panela Rebanadas Cuadradas,FUD,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/104/008/4669/front_en.3.200.jpg,off,2025-08-24
@@ -10865,6 +10906,9 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501040095542,Griego extra cremoso sabor vainilla,Yoplait,,,,Lácteos,,off,2026-08-05
 7501040095580,Yogurt Griego Sabor Coco,yoplait,,,,Lácteos,,off,2026-09-17
 7501040095610,Yoplait griego 4 pack,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/104/009/5610/front_es.3.200.jpg,off,2026-11-08
+7501040095672,Griego extra cremoso crema de maní,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/104/009/5672/front_es.3.200.jpg,off,2026-11-12
+7501040095719,Griego extra cremoso cookies and cream,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/104/009/5719/front_es.3.200.jpg,off,2026-11-12
+7501040095733,Griego extra cremoso cheesecake,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/104/009/5733/front_es.3.200.jpg,off,2026-11-12
 7501040095900,Max protein,Yoplait,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/104/009/5900/front_es.4.200.jpg,off,2026-03-27
 7501040095924,Placer Pay de zarzamoras,Yoplait,220,g,220g,Otros,https://images.openfoodfacts.org/images/products/750/104/009/5924/front_es.3.200.jpg,off,2024-11-02
 7501040095948,Placer Cookies and cream,Yoplait,220,g,220g,Panadería,https://images.openfoodfacts.org/images/products/750/104/009/5948/front_es.4.200.jpg,off,2025-10-22
@@ -10875,6 +10919,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501040096082,Yoplait kid fraise et probiotique,Yoplait,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/104/009/6082/front_fr.10.200.jpg,off,2026-03-02
 7501040096181,Yoplait Griego,Yoplait,,,,Lácteos,,off,2026-10-18
 7501040096198,fresas naturales yogurt,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/104/009/6198/front_es.3.200.jpg,off,2026-09-04
+7501040096372,Petit suisse griego mango,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/104/009/6372/front_es.3.200.jpg,off,2026-11-12
 7501040096396,"Yogurt griego con fresa, bajo en grasa sin azúcar añadida",,360,g,360g,Lácteos,https://images.openfoodfacts.org/images/products/750/104/009/6396/front_es.3.200.jpg,off,2026-11-05
 7501040096402,Yoghurt Griego Fresa,Yoplait,,,,Lácteos,,off,2026-10-08
 7501040097027,Flan Casero Yoplait,Yoplait,220,g,220 g,Lácteos,https://images.openfoodfacts.org/images/products/750/104/009/7027/front_es.16.200.jpg,off,2026-04-02
@@ -10950,6 +10995,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501041418722,Ensalada Con Atun Y Aderezo De Mayonessa,Tuny,,,,Enlatados,,off,2026-05-19
 7501041418838,Atún Ql Habanero,Tuny,,,,Enlatados,https://images.openfoodfacts.org/images/products/750/104/141/8838/front_es.3.200.jpg,off,2026-03-28
 7501041418845,Gourmet Chipotle Tuna,Tuny,,,,Abarrotes,,off,2026-04-02
+7501041418852,Gourmet Al Pibil,Tuny,,,,Otros,https://images.openfoodfacts.org/images/products/750/104/141/8852/front_es.3.200.jpg,off,2026-11-13
 7501041418999,Atún,Tuny,,,,Enlatados,https://images.openfoodfacts.org/images/products/750/104/141/8999/front_es.8.200.jpg,off,2025-02-05
 7501041419040,atún en aceite,tuny,140,g,140 g,Enlatados,https://images.openfoodfacts.org/images/products/750/104/141/9040/front_es.4.200.jpg,off,2026-04-02
 7501041419071,Atún Aleta Amarilla en Aceite Tuny Standard,Tuny,140,g,140 g,Carnes y embutidos,https://images.openfoodfacts.org/images/products/750/104/141/9071/front_es.4.200.jpg,off,2026-04-02
@@ -11225,6 +11271,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501052414447,Cafe Legal,Legal,180,g,180 G,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/4447/front_es.19.200.jpg,off,2026-04-02
 7501052414478,Cafe Soluble Legal,Legal,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/4478/front_en.3.200.jpg,off,2024-09-11
 7501052416205,café mexicano molido bol,café mexicano,400,g,400g,Bebidas,https://images.openfoodfacts.org/images/products/750/105/241/6205/front_en.5.200.jpg,off,2025-05-16
+7501052416403,Café mexicano descafeinado,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/6403/front_es.3.200.jpg,off,2026-11-12
 7501052417400,Café Soluble,Oro,100,g,100g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/7400/front_es.5.200.jpg,off,2025-10-11
 7501052417509,Cafe 24K,ORO,160,g,160g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/7509/front_es.11.200.jpg,off,2026-06-18
 7501052417516,Oro 24 kilates,Oro,75,g,75g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/7516/front_en.20.200.jpg,off,2026-08-09
@@ -11232,7 +11279,11 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501052418117,Internacional verde,,,,,Otros,https://images.openfoodfacts.org/images/products/750/105/241/8117/front_es.3.200.jpg,off,2023-08-23
 7501052419022,Café Puro Regular Tostado y Molido,Café Garat,1,kg,1 kg,Bebidas,https://images.openfoodfacts.org/images/products/750/105/241/9022/front_es.20.200.jpg,off,2026-04-02
 7501052419046,regular café puro tostado y molido,café garat,340,g,340g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/9046/front_es.3.200.jpg,off,2025-05-16
+7501052419053,Café garat,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/9053/front_es.3.200.jpg,off,2026-11-12
+7501052419152,Café garat chiapas,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/9152/front_es.3.200.jpg,off,2026-11-12
+7501052419312,Café garat,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/9312/front_es.3.200.jpg,off,2026-11-12
 7501052419336,Café Garat Tostado y Molido / Vainilla francesa,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/9336/front_fr.4.200.jpg,off,2026-03-19
+7501052419558,Garat cafe,,12,oz,12 oz,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/9558/front_es.3.200.jpg,off,2026-11-12
 7501052419923,Café Garat,Garat,125,g,125 gr,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/241/9923/front_es.4.200.jpg,off,2024-01-02
 7501052420028,Frijoles negros molidos 440g,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/242/0028/front_en.5.200.jpg,off,2025-05-15
 7501052420035,Refried Beans,La Sierra,1,pz,1pcs,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/242/0035/front_de.5.200.jpg,off,2024-01-11
@@ -11258,6 +11309,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501052421414,Frijoles Negros Refritos,La Sierra,,,,Abarrotes,,off,2026-05-06
 7501052421421,Frijoles bayos refritos,,,,,Abarrotes,,off,2026-04-02
 7501052421476,Haricots noirs,La Sierra,,,,Otros,https://images.openfoodfacts.org/images/products/750/105/242/1476/front_fr.3.200.jpg,off,2026-03-26
+7501052421513,Frijoles Peruanos Refritos,La Sierra,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/242/1513/front_en.3.200.jpg,off,2026-11-15
 7501052422022,Frijoles Negros Molidos,La Sierra,,,,Abarrotes,,off,2026-03-26
 7501052424026,Frijoles Negros Refritos,La Sierra,440,,440 gms,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/242/4026/front_es.16.200.jpg,off,2026-04-02
 7501052424033,Frijoles Bayos Refritos,La Sierra,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/242/4033/front_es.14.200.jpg,off,2026-03-27
@@ -11302,6 +11354,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501052470658,Vinagreta Balsamica,Clemente Jacques,255,ml,255 ml,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/247/0658/front_es.7.200.jpg,off,2026-04-02
 7501052470672,Vinagreta Pepino Limon,Clemente Jacques,255,ml,255 ml,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/247/0672/front_es.8.200.jpg,off,2026-04-02
 7501052471006,Chicharos,Clementes Jacques,,,,Otros,https://images.openfoodfacts.org/images/products/750/105/247/1006/front_es.9.200.jpg,off,2026-05-29
+7501052471037,Chicharos y Zanahoria,Clemente Jacques,,,,Otros,,off,2026-11-13
 7501052471044,Ensalada De Verduras,Clemente jacques,,,,Abarrotes,,off,2026-04-02
 7501052471051,Elotes,Clemente Jacques,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/247/1051/front_es.21.200.jpg,off,2026-04-22
 7501052471068,Ensalada de verduras,Clemente Jacques,220,g,220g,Enlatados,https://images.openfoodfacts.org/images/products/750/105/247/1068/front_es.6.200.jpg,off,2026-04-02
@@ -11309,6 +11362,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501052472119,Salsa Catsup,Clemente Jacques,680,g,680 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/247/2119/front_es.8.200.jpg,off,2026-07-17
 7501052472133,Catsup,Clemente Jacques,970,g,970 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/247/2133/front_es.3.200.jpg,off,2026-03-27
 7501052472195,Salsa de tomate catsup,clemente jaques,220,g,220g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/247/2195/front_es.19.200.jpg,off,2026-05-21
+7501052472256,Cátsup,Clemente Jacques,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/247/2256/front_es.3.200.jpg,off,2026-11-14
 7501052472294,Catsup Habanero,Clemente Jacques,220,g,220 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/247/2294/front_es.7.200.jpg,off,2026-06-14
 7501052472331,Catsup,Mi Catsup,,,,Abarrotes,,off,2026-04-02
 7501052472409,Salsa catsup bolsa clemente,clemente jacques,400,g,400g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/247/2409/front_es.3.200.jpg,off,2026-02-05
@@ -11369,9 +11423,10 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501052479002,Chicharrón con salsa verde,,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/750/105/247/9002/front_es.3.200.jpg,off,2026-03-15
 7501052483436,Tostada mi reina,Mi reina,,,,Panadería,https://images.openfoodfacts.org/images/products/750/105/248/3436/front_es.3.200.jpg,off,2024-05-06
 7501052483634,Totopos mi reina,,,,,Botanas,https://images.openfoodfacts.org/images/products/750/105/248/3634/front_es.3.200.jpg,off,2024-02-09
+7501052484082,Cafe garat colágeno,,12,oz,12 oz,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/248/4082/front_es.3.200.jpg,off,2026-11-12
 7501052487069,Salsa Habanero Tatemado,Clemente Jacques,,,,Abarrotes,,off,2026-06-03
 7501052487076,Salsa Parrillera,Clemente Jacques,,,,Abarrotes,,off,2026-04-02
-7501052488004,Pollo en mole,,,,,Carnes y embutidos,,off,2026-04-02
+7501052488004,Pollo en mole la Sierra,,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/750/105/248/8004/front_es.5.200.jpg,off,2026-11-12
 7501052488011,Cochinita Pibil,La Sierra,,,,Otros,,off,2026-11-11
 7501052488028,Barbacoa,La Sierra,,,,Otros,https://images.openfoodfacts.org/images/products/750/105/248/8028/front_en.3.200.jpg,off,2026-04-02
 7501052500263,Yogurt bebible sabor berries,,,,,Lácteos,,off,2026-04-02
@@ -11427,11 +11482,14 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501054553007,silver active 2x PRECIO ESPECIAL,,,,,Otros,https://images.openfoodfacts.org/images/products/750/105/455/3007/front_es.4.200.jpg,off,2025-02-06
 7501054787877,Totopos de maíz salados,Mission,280,g,280 g,Botanas,https://images.openfoodfacts.org/images/products/750/105/478/7877/front_es.5.200.jpg,off,2026-04-02
 7501054832201,Tequila,,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/105/483/2201/front_fr.3.200.jpg,off,2020-05-07
+7501054835165,Tequila Blanco 38° Botella,Sombrero Negro,750,ml,750 ml,Bebidas,,off,2026-11-12
+7501054835172,Tequila Joven 38° Botella,Sombrero Negro,750,ml,750 ml,Bebidas,,off,2026-11-12
 7501054900924,Tortillas De Maiz,Exquisitas,,,,Panadería,,off,2026-04-02
 7501054900931,Tortillas De Maíz Blancas,Exquisitas,,,,Panadería,,off,2026-04-02
 7501054901013,Estilo Casero Tostadas de maíz,Mission,270,g,270 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/490/1013/front_es.5.200.jpg,off,2026-04-02
 7501054901044,Misión Nacho,,,,,Otros,https://images.openfoodfacts.org/images/products/750/105/490/1044/front_en.3.200.jpg,off,2026-10-31
 7501054901174,Tortillas de maïs,Mission,,,,Panadería,https://images.openfoodfacts.org/images/products/750/105/490/1174/front_fr.4.200.jpg,off,2023-10-27
+7501054901259,Tostadas,Mission,,,,Panadería,,off,2026-11-13
 7501054901297,Tostadas mission,Mission,200,g,200 gr,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/490/1297/front_es.4.200.jpg,off,2026-04-02
 7501054901310,Salsa verde,Mission,62,g,62g,Botanas,https://images.openfoodfacts.org/images/products/750/105/490/1310/front_es.3.200.jpg,off,2026-04-02
 7501054901334,Chile limon,Mission,62,g,62g,Botanas,https://images.openfoodfacts.org/images/products/750/105/490/1334/front_es.11.200.jpg,off,2026-08-06
@@ -11985,7 +12043,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501055914463,yogurt,alpura,,,litro,Lácteos,https://images.openfoodfacts.org/images/products/750/105/591/4463/front_es.3.200.jpg,off,2025-12-18
 7501055914487,Yogurt de durazno Alpura,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/105/591/4487/front_es.3.200.jpg,off,2026-11-08
 7501055914500,Yogurt manzana Alpura kilo,Alpura,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/105/591/4500/front_es.3.200.jpg,off,2024-08-23
-7501055914524,Mango,Alpura,,,,Lácteos,,off,2026-03-12
+7501055914524,Alpura yogurt de mango,Alpura,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/105/591/4524/front_es.12.200.jpg,off,2026-11-12
 7501055914579,Yoghurt Alpura natural 0% azúcar añadida,Alpura,900,g,900 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/591/4579/front_es.18.200.jpg,off,2026-03-12
 7501055914630,Yoghurt Alpura Bebible Fresa y Zarzamora,Alpura,220,g,220g,Lácteos,https://images.openfoodfacts.org/images/products/750/105/591/4630/front_es.3.200.jpg,off,2026-03-12
 7501055914678,Leche de vaca clásica,Alpura,150,g,150g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/591/4678/front_es.4.200.jpg,off,2026-04-02
@@ -12070,6 +12128,8 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501055918195,Yogurt griego,Alpura,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/105/591/8195/front_en.5.200.jpg,off,2026-08-13
 7501055918232,Forti plus 900ml,,,,,Otros,https://images.openfoodfacts.org/images/products/750/105/591/8232/front_en.3.200.jpg,off,2026-01-17
 7501055918287,Leche Deslactosada 0% grasa,Alpura,1,l,1L,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/591/8287/front_es.5.200.jpg,off,2026-03-28
+7501055918300,Alpura deslactosada piña coco,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/105/591/8300/front_es.3.200.jpg,off,2026-11-12
+7501055918423,Alpura griego sabor fresa,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/105/591/8423/front_es.3.200.jpg,off,2026-11-12
 7501055918447,Yogur griego sabor coco,alpura,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/105/591/8447/front_en.3.200.jpg,off,2026-10-03
 7501055918485,Alpura griego sabor coco,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/105/591/8485/front_es.3.200.jpg,off,2026-11-08
 7501055919147,Griego de fresa 13 proteína,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/105/591/9147/front_es.3.200.jpg,off,2026-11-08
@@ -12217,7 +12277,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501058613554,Caŕlos V Para Llevar,Nestlé,,,,Otros,https://images.openfoodfacts.org/images/products/750/105/861/3554/front_en.3.200.jpg,off,2026-11-12
 7501058614032,Fitness,Nestlé,285,g,285 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/861/4032/front_es.26.200.jpg,off,2026-03-09
 7501058614056,Fitness original con avena,Nestlé,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/861/4056/front_es.4.200.jpg,off,2020-12-26
-7501058614124,Gerber,,,,,Bebés,,off,2026-01-28
+7501058614124,Gerber,Gerber,,,,Bebés,,off,2026-11-15
 7501058614131,Durazno,Gerber,,,,Otros,https://images.openfoodfacts.org/images/products/750/105/861/4131/front_en.5.200.jpg,off,2026-07-18
 7501058614148,Gerber pera,,,,,Bebés,https://images.openfoodfacts.org/images/products/750/105/861/4148/front_es.5.200.jpg,off,2025-07-14
 7501058614278,Fitness Fruits,Nestlé,540,g,540 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/861/4278/front_es.10.200.jpg,off,2026-04-02
@@ -12687,7 +12747,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501059297586,Jugo sazonador Maggi 45ml,Maggi juguito,45,ml,45 ml,Bebidas,https://images.openfoodfacts.org/images/products/750/105/929/7586/front_es.22.200.jpg,off,2026-04-02
 7501059299009,Larin Nuez,Nestlé,240,g,240g,Botanas,https://images.openfoodfacts.org/images/products/750/105/929/9009/front_es.5.200.jpg,off,2024-11-26
 7501059299016,Larin Almendra,Nestlé,240,g,240g,Botanas,https://images.openfoodfacts.org/images/products/750/105/929/9016/front_es.5.200.jpg,off,2024-11-26
-7501059299221,Carlos V,Nestlé,20,g,20 g,Dulces,https://images.openfoodfacts.org/images/products/750/105/929/9221/front_es.10.200.jpg,off,2026-04-02
+7501059299221,Carlos V,Nestlé,20,g,20 g,Dulces,https://images.openfoodfacts.org/images/products/750/105/929/9221/front_es.10.200.jpg,off,2026-11-15
 7501059299245,Coffee mate,Nestlé,435,g,435 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/105/929/9245/front_es.23.200.jpg,off,2026-07-06
 7501059299252,Carlos V,Nestlé,20,g,20gr,Otros,https://images.openfoodfacts.org/images/products/750/105/929/9252/front_es.8.200.jpg,off,2026-04-02
 7501059299382,Coffee Mate Crema Irlandesa,Nestle,500,ml,500 ml,Lácteos,https://images.openfoodfacts.org/images/products/750/105/929/9382/front_es.8.200.jpg,off,2026-04-02
@@ -13046,7 +13106,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501072221896,Dog chow,,2,kg,2kg,Mascotas,https://images.openfoodfacts.org/images/products/750/107/222/1896/front_es.3.200.jpg,off,2026-05-04
 7501072300218,Ting,,,,,Otros,https://images.openproductsfacts.org/images/products/750/107/230/0218/front_en.3.200.jpg,opf,2026-10-02
 7501073411173,chocolate Abuelita tableta,Nestlé,,,,Dulces,https://images.openfoodfacts.org/images/products/750/107/341/1173/front_fr.20.200.jpg,off,2026-03-19
-7501073427532,Trix,Nestlé,30,g,30g,Abarrotes,https://images.openfoodfacts.org/images/products/750/107/342/7532/front_es.7.200.jpg,off,2026-09-20
+7501073427532,Cereal Frutal,Trix,30,g,30 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/107/342/7532/front_es.7.200.jpg,off,2026-11-12
 7501073800113,Aguafiel,Penafiel,60,g,60g,Abarrotes,https://images.openfoodfacts.org/images/products/750/107/380/0113/front_es.6.200.jpg,off,2026-04-02
 7501073800908,Agua mineral de Manantial Peñafiel,Peñafiel,2,l,2 l,Bebidas,https://images.openfoodfacts.org/images/products/750/107/380/0908/front_es.19.200.jpg,off,2026-08-30
 7501073825208,Agua tónica,Schweppes,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/107/382/5208/front_es.12.200.jpg,off,2026-03-27
@@ -13158,7 +13218,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501077508787,Queso panela FRANJA 1 KG,,,,,Lácteos,,off,2026-02-28
 7501077509371,Eugenia Crema acidificada pasteurizada de leche de vaca,Sigma,430,g,430 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/107/750/9371/front_es.10.200.jpg,off,2026-04-02
 7501077509593,Franja queso gouda,,,,,Lácteos,,off,2026-04-10
-7501077509647,Queso Gouda,NocheBuena,,,,Lácteos,,off,2026-10-08
+7501077509647,Queso gouda Nochebuena,NocheBuena,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/107/750/9647/front_es.4.200.jpg,off,2026-11-12
 7501077510377,Noche buena Queso Manchego reducido en grasa,Sigma,400,g,400 g,Lácteos,https://images.openfoodfacts.org/images/products/750/107/751/0377/front_es.26.200.jpg,off,2026-10-06
 7501077510414,Queso Panela Cremoso,NocheBuena,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/107/751/0414/front_en.3.200.jpg,off,2025-09-10
 7501077510452,Queso panela noche buena,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/107/751/0452/front_es.5.200.jpg,off,2025-12-22
@@ -13661,6 +13721,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501125174797,Electrolit,PiSA,625,ml,625 ml,Bebidas,https://images.openfoodfacts.org/images/products/750/112/517/4797/front_es.26.200.jpg,off,2026-03-27
 7501125174841,Suero Rehidratante Té Verde-Limon - Electrolit - Electrolit,,,,,Bebidas,,off,2026-04-02
 7501125175602,Amoxiclav bib 200 mg,Pisa,,,,Otros,https://images.openfoodfacts.org/images/products/750/112/517/5602/front_es.3.200.jpg,off,2025-05-27
+7501125176456,Solución electrolitos orales,Electrolit,,,,Higiene personal,,off,2026-11-15
 7501125176500,Suero Rehidratante Naranja-Mandarina,Electrolit,,,,Otros,,off,2026-03-08
 7501125180736,Cinitaprida,,,,,Otros,https://images.openfoodfacts.org/images/products/750/112/518/0736/front_en.3.200.jpg,off,2025-03-13
 7501125180910,Suero Rehidratante Fresa,Hidravida,,,,Otros,https://images.openfoodfacts.org/images/products/750/112/518/0910/front_en.3.200.jpg,off,2025-08-20
@@ -14066,7 +14127,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501216819804,Crema Pasteurizada De Leche De Vaca,Aguascalientes,240,g,240g,Lácteos,https://images.openfoodfacts.org/images/products/750/121/681/9804/front_es.6.200.jpg,off,2026-08-09
 7501216819811,crema pasteurizado de leche de vaca,cremeria Aguascalientes,480,g,480 g,Lácteos,https://images.openfoodfacts.org/images/products/750/121/681/9811/front_es.5.200.jpg,off,2024-10-08
 7501216819828,Crema Pasteurizada De Leche De Vaca,Aguascalientes,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/121/681/9828/front_en.3.200.jpg,off,2026-04-02
-7501216819835,Mantequilla De Leche Pasteurizada De Vaca,Aguas Calientes,,,,Lácteos,,off,2025-05-10
+7501216819835,Mantequilla De Leche Pasteurizada De Vaca,Aguas Calientes,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/121/681/9835/front_en.3.200.jpg,off,2026-11-16
 7501216820329,Requesón pasteurizado,Aguascalientes,220,g,220 g,Lácteos,https://images.openfoodfacts.org/images/products/750/121/682/0329/front_es.5.200.jpg,off,2026-04-02
 7501216820602,Milk,,,,,Lácteos,,off,2026-04-02
 7501216821821,Queso Asadero,Aguascalientes,,,,Lácteos,,off,2026-04-02
@@ -14223,6 +14284,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501287627650,Motrin tabletas,,,,,Higiene personal,https://images.openproductsfacts.org/images/products/750/128/762/7650/front_es.3.200.jpg,opf,2026-11-05
 7501287675255,centrum,Pfizer,,,,Otros,https://images.openfoodfacts.org/images/products/750/128/767/5255/front_es.5.200.jpg,off,2020-03-25
 7501287679529,Emergen-C,Pfizer,,,,Otros,https://images.openfoodfacts.org/images/products/750/128/767/9529/front_en.3.200.jpg,off,2026-04-02
+7501289610001,Café oso,,,,,Abarrotes,,off,2026-11-12
 7501289620000,Chocolate para mesa,Oso,,,,Dulces,https://images.openfoodfacts.org/images/products/750/128/962/0000/front_en.3.200.jpg,off,2025-05-28
 7501290100027,Bagels Natural,Newyork,690,g,690 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/129/010/0027/front_es.8.200.jpg,off,2026-04-02
 7501290100096,Mini Bagel,New York Deli & Bagel,450,g,450 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/129/010/0096/front_es.8.200.jpg,off,2026-04-02
@@ -14333,7 +14395,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501303904208,Yogurt CHILCHOTA fresa 🍓,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/130/390/4208/front_es.4.200.jpg,off,2024-05-01
 7501303904253,Yogurt CHILCHOTA durazno 🍑,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/130/390/4253/front_es.4.200.jpg,off,2024-05-01
 7501303904277,Yogurt chilchota 1 kg natural,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/130/390/4277/front_es.4.200.jpg,off,2024-05-01
-7501303907209,Doble crema,chilchota,1,kg,1 kg,Lácteos,,off,2026-11-09
+7501303907209,Doble crema,chilchota,1,kg,1 kg,Lácteos,https://images.openfoodfacts.org/images/products/750/130/390/7209/front_es.3.200.jpg,off,2026-11-15
 7501303908176,Queso Oaxaca,Chilchota,200,,200,Lácteos,https://images.openfoodfacts.org/images/products/750/130/390/8176/front_es.5.200.jpg,off,2025-10-22
 7501303908305,Queso Oaxaca chilchota 500 g,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/130/390/8305/front_es.6.200.jpg,off,2024-05-28
 7501303909111,crema chilchota,,1,kg,1 Kg,Lácteos,https://images.openfoodfacts.org/images/products/750/130/390/9111/front_es.10.200.jpg,off,2025-07-11
@@ -14370,6 +14432,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501303995428,Queso amarillo tipo americano chilchota 175 g,Chilchota Alimentos sa de cv,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/130/399/5428/front_es.3.200.jpg,off,2026-10-15
 7501303995510,Queso doble crema rebanado 175 g,Chilchota,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/130/399/5510/front_es.10.200.jpg,off,2024-05-01
 7501303995534,Queso crema rebanado chilchota 175 g,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/130/399/5534/front_es.5.200.jpg,off,2024-05-01
+7501303995893,Margarina chilchota con sal pasteurizada untable,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/130/399/5893/front_es.3.200.jpg,off,2026-11-13
 7501303996159,Doble crema Lagunero,Chilchota,1,kg,1Kg,Lácteos,https://images.openfoodfacts.org/images/products/750/130/399/6159/front_es.16.200.jpg,off,2025-05-31
 7501303996531,Queso panela parrillera chilchota 200 g,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/130/399/6531/front_es.5.200.jpg,off,2024-05-01
 7501304000985,suero solural,,,,,Otros,https://images.openfoodfacts.org/images/products/750/130/400/0985/front_es.3.200.jpg,off,2024-09-15
@@ -14632,6 +14695,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501430020239,te negro sabor a frutos rojos,vitte,50,g,50g,Bebidas,https://images.openfoodfacts.org/images/products/750/143/002/0239/front_es.3.200.jpg,off,2026-09-27
 7501430020338,te manzanilla,vitte,30,g,30g,Bebidas,https://images.openfoodfacts.org/images/products/750/143/002/0338/front_es.3.200.jpg,off,2025-05-07
 7501430020789,Té Mandarina Jengibre,Vitté,2,g,25 sobres de Té 2G c/u,Bebidas,https://images.openfoodfacts.org/images/products/750/143/002/0789/front_es.25.200.jpg,off,2026-04-02
+7501430022288,Café los portales de Córdoba,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/143/002/2288/front_es.3.200.jpg,off,2026-11-12
 7501430023278,café santa fe molido regular,santa fe,900,g,900g,Abarrotes,https://images.openfoodfacts.org/images/products/750/143/002/3278/front_es.3.200.jpg,off,2025-05-16
 7501431213203,Covermex Plato Desechable 50 pz,,,,,Otros,,off,2026-03-10
 7501431700048,Rice Flour For Horchata,La India Verdena,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/143/170/0048/front_en.3.200.jpg,off,2023-06-29
@@ -14993,6 +15057,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7501537164713,Tribedoce,Bruluart,30,,30 grageas,Abarrotes,,off,2026-04-02
 7501537166311,brunadol tab,,,,,Otros,https://images.openfoodfacts.org/images/products/750/153/716/6311/front_es.3.200.jpg,off,2025-01-29
 7501537487195,porky's,,70,g,70g,Otros,https://images.openfoodfacts.org/images/products/750/153/748/7195/front_fr.4.200.jpg,off,2023-04-29
+7501542505600,Chilorio mi marca,,,,,Otros,https://images.openfoodfacts.org/images/products/750/154/250/5600/front_es.3.200.jpg,off,2026-11-12
 7501542505808,Carne de res endiablada,Tierra grande,175,g,175 g,Enlatados,https://images.openfoodfacts.org/images/products/750/154/250/5808/front_es.3.200.jpg,off,2026-04-02
 7501542570103,Chilorio,,,,,Enlatados,https://images.openfoodfacts.org/images/products/750/154/257/0103/front_fr.3.200.jpg,off,2026-04-02
 7501557109107,nefor mini cleveland lámina,BEsT,60,,60,Abarrotes,https://images.openfoodfacts.org/images/products/750/155/710/9107/front_es.3.200.jpg,off,2020-09-08
@@ -16365,6 +16430,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7502213340711,ccccc,,,,,Otros,https://images.openfoodfacts.org/images/products/750/221/334/0711/front_es.4.200.jpg,off,2022-03-26
 7502213347277,Zaverich citrus,Zaverich,330,ml,330ml,Bebidas,https://images.openfoodfacts.org/images/products/750/221/334/7277/front_en.3.200.jpg,off,2025-09-27
 7502213349257,Caribu licor de sandía,Caribu,1,l,1lt,Bebidas,https://images.openfoodfacts.org/images/products/750/221/334/9257/front_es.4.200.jpg,off,2026-04-02
+7502213730147,Hemoplez,,,,,Otros,https://images.openproductsfacts.org/images/products/750/221/373/0147/front_es.3.200.jpg,opf,2026-11-12
 7502214011030,colágeno hidrolizado,ypenza,,,,Otros,,off,2024-08-30
 7502214011047,Colageno,Ypenza,,,,Otros,,off,2026-03-02
 7502214011337,Colageno Coco,Ypenza FB,,,,Otros,,off,2026-10-26
@@ -16589,6 +16655,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7502224268752,Crema de Avellanas con Cacao,Avellina,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/222/426/8752/front_en.3.200.jpg,off,2026-11-06
 7502225640328,Bovimune single shot 10 ds,,,,,Otros,https://images.openfoodfacts.org/images/products/750/222/564/0328/front_es.3.200.jpg,off,2024-02-29
 7502225640342,Bovimune single shot 50 ds,,,,,Otros,https://images.openfoodfacts.org/images/products/750/222/564/0342/front_es.3.200.jpg,off,2024-02-29
+7502225641905,Garra Ban,,,,,Otros,https://images.openproductsfacts.org/images/products/750/222/564/1905/front_es.3.200.jpg,opf,2026-11-12
 7502225642513,Lapimicina,,,,,Otros,https://images.openproductsfacts.org/images/products/750/222/564/2513/front_es.3.200.jpg,opf,2026-11-06
 7502225645620,Bovimune protector 5 10 ds,Lapisa,,,,Higiene personal,https://images.openfoodfacts.org/images/products/750/222/564/5620/front_es.3.200.jpg,off,2024-02-29
 7502225960020,Super Rebanaditas,,,,,Dulces,https://images.openfoodfacts.org/images/products/750/222/596/0020/front_en.8.200.jpg,off,2026-04-02
@@ -17041,7 +17108,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7502252481673,Quinoa Sazonada Mediterranean mix,Nature's Heart,250,g,250g,Abarrotes,https://images.openfoodfacts.org/images/products/750/225/248/1673/front_es.4.200.jpg,off,2026-04-02
 7502252481727,Coconut water,Natures heart,1,l,1lt,Bebidas,https://images.openfoodfacts.org/images/products/750/225/248/1727/front_es.3.200.jpg,off,2026-04-02
 7502252481765,Mezcla de vegetales Nature's Heart veggi chips,Terrafertil,142,g,142 g,Botanas,https://images.openfoodfacts.org/images/products/750/225/248/1765/front_es.4.200.jpg,off,2026-04-02
-7502252481789,Bebida De Almendra y Coco,Nature´s Heart,946,ml,946 ml,Lácteos,https://images.openfoodfacts.org/images/products/750/225/248/1789/front_es.9.200.jpg,off,2026-02-24
+7502252481789,Bebida De Almendra y Coco,Nature´s Heart,946,ml,946 ml,Lácteos,https://images.openfoodfacts.org/images/products/750/225/248/1789/front_es.9.200.jpg,off,2026-11-12
 7502252481796,Nature’s heart Almond&Vanilla,Nature's Heart,946,ml,946 ml,Abarrotes,https://images.openfoodfacts.org/images/products/750/225/248/1796/front_es.50.200.jpg,off,2026-08-12
 7502252481826,Rice Drink,Nature´s Heart,400,g,400 g,Bebidas,https://images.openfoodfacts.org/images/products/750/225/248/1826/front_es.5.200.jpg,off,2026-04-02
 7502252481857,Arándano Natures Heart® X,Nature´s Heart,200,g,200 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/225/248/1857/front_es.6.200.jpg,off,2026-09-28
@@ -17330,6 +17397,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7502261268081,Frijoles Refritos Bayos,Campo Santo,430,g,430g,Abarrotes,https://images.openfoodfacts.org/images/products/750/226/126/8081/front_es.6.200.jpg,off,2026-04-02
 7502261268098,Frijoles Negros Refritos,Campo Santo,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/226/126/8098/front_es.5.200.jpg,off,2026-04-02
 7502261268487,Harina de Maíz Blanco,Tres Soles,1,kg,1 kg,Abarrotes,https://images.openfoodfacts.org/images/products/750/226/126/8487/front_es.3.200.jpg,off,2026-03-27
+7502261268562,Crema Corporal Aura,,,,,Higiene personal,https://images.openfoodfacts.org/images/products/750/226/126/8562/front_es.3.200.jpg,off,2026-11-14
 7502261268647,Choco Balls Duo,Earthflakes,,,,Otros,,off,2026-10-20
 7502261268678,Mermelada,,,,,Abarrotes,,off,2026-04-02
 7502261268685,Cacahuate japonés,Konichiwa,180,g,180g,Botanas,https://images.openfoodfacts.org/images/products/750/226/126/8685/front_es.14.200.jpg,off,2026-08-06
@@ -17350,7 +17418,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7502261270503,Mayonesa con Jugo de limón,Mayorela,375,g,375g,Abarrotes,https://images.openfoodfacts.org/images/products/750/226/127/0503/front_es.3.200.jpg,off,2026-04-02
 7502261270558,Queso americano,lactic bu,126,g,126g,Lácteos,https://images.openfoodfacts.org/images/products/750/226/127/0558/front_es.3.200.jpg,off,2026-05-15
 7502261270862,Yogurt en Bolsa,Spinni,1,kg,1kg,Lácteos,https://images.openfoodfacts.org/images/products/750/226/127/0862/front_es.3.200.jpg,off,2026-01-08
-7502261270923,Pan Casero Horneado,El Molino Blanco de Mateo,567,g,567 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/226/127/0923/front_es.3.200.jpg,off,2026-07-22
+7502261270923,Pan Casero Horneado,El Molino Blanco de Mateo,567,g,567 g,Abarrotes,https://images.openfoodfacts.org/images/products/750/226/127/0923/front_es.3.200.jpg,off,2026-11-15
 7502261271050,Camarón Coctelero cocido,Costa Azul,,,,Carnes y embutidos,,off,2026-11-04
 7502261271197,Penne rigate,,,,,Otros,,off,2026-04-02
 7502261271302,Alimento Preparado Pastor,Sparta,350,g,350g,Abarrotes,https://images.openfoodfacts.org/images/products/750/226/127/1302/front_es.3.200.jpg,off,2026-05-15
@@ -17380,6 +17448,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7502261274075,Trozos De Pechuga De Pollo Empanizados,Campo Grill,,,,Carnes y embutidos,,off,2026-08-17
 7502261274082,Pimienta Limón,Campo Grill,,,,Otros,,off,2026-04-02
 7502261274150,Queso Gouda rebanado,vaca blanca,200,g,200g,Lácteos,https://images.openfoodfacts.org/images/products/750/226/127/4150/front_es.7.200.jpg,off,2026-09-19
+7502261274198,Aceite de Almendras Dulces,,,,,Dulces,https://images.openfoodfacts.org/images/products/750/226/127/4198/front_es.3.200.jpg,off,2026-11-14
 7502261274341,Galletas de arroz inflado con cobertura de chocolate,Milena,15,g,15 g,Panadería,https://images.openfoodfacts.org/images/products/750/226/127/4341/front_es.4.200.jpg,off,2026-04-26
 7502261274433,Galletas de Arroz Inflado,Milena,80,g,80 g,Panadería,https://images.openfoodfacts.org/images/products/750/226/127/4433/front_es.15.200.jpg,off,2026-09-06
 7502261275065,Chuleta Ahumada Cerdo,Campo Grill,,,,Carnes y embutidos,,off,2026-11-08
@@ -17497,7 +17566,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7502268541484,Electrolife ZERO Fresa Kiwi,Laboratorios PiSA,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/226/854/1484/front_es.7.200.jpg,off,2026-06-05
 7502268541491,UVA,Electrolit Zero,,,,Otros,,off,2026-04-02
 7502268541644,Electrolit,,,,,Bebidas,,off,2026-04-02
-7502268541651,Electrolit Uva,Electrolit,625,ml,625 mL,Bebidas,https://images.openfoodfacts.org/images/products/750/226/854/1651/front_es.3.200.jpg,off,2026-04-26
+7502268541651,Bebida Hidratante Uva Botella,Electrolit,625,ml,625 ml,Bebidas,https://images.openfoodfacts.org/images/products/750/226/854/1651/front_es.3.200.jpg,off,2026-11-12
 7502268541668,Electrolit,Pisa,625,ml,625 ml,Bebidas,https://images.openfoodfacts.org/images/products/750/226/854/1668/front_es.3.200.jpg,off,2026-04-07
 7502268541675,Frutilla-kiwi,Electrolit,625,ml,625 mL,Bebidas,https://images.openfoodfacts.org/images/products/750/226/854/1675/front_es.3.200.jpg,off,2026-04-08
 7502268541736,Pisavit RDX,Pisavit,,,,Otros,https://images.openfoodfacts.org/images/products/750/226/854/1736/front_es.3.200.jpg,off,2024-03-14
@@ -17518,7 +17587,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7502268548193,Suero Rehidratante,Electrolit,,,,Otros,https://images.openfoodfacts.org/images/products/750/226/854/8193/front_en.3.200.jpg,off,2025-09-03
 7502268549305,Electrolit Hidratación Premium Maracuyá,Electrolit,625,ml,625 mL,Bebidas,https://images.openfoodfacts.org/images/products/750/226/854/9305/front_es.26.200.jpg,off,2026-04-12
 7502268549565,Electrolit,Electrolit,,,,Bebidas,,off,2026-09-03
-7502268549794,Electrolit,,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/226/854/9794/front_es.4.200.jpg,off,2026-04-02
+7502268549794,Bebida Hidratante Sabor Blue Raspberry,Electrolit,625,ml,625 ml,Bebidas,https://images.openfoodfacts.org/images/products/750/226/854/9794/front_es.4.200.jpg,off,2026-11-12
 7502268850463,Vita Gummy,,,,,Otros,https://images.openproductsfacts.org/images/products/750/226/885/0463/front_es.3.200.jpg,opf,2025-12-13
 7502268851255,Magnesium gummies,,,,,Dulces,,off,2026-04-02
 7502270132854,Dan 21-9,miguett,,,,Otros,,off,2025-06-20
@@ -17853,6 +17922,8 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7502297066613,Jicama Salsas Negras,Tasty Zone,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/229/706/6613/front_es.3.200.jpg,off,2026-04-02
 7502301450452,Creatina monohidratada,,,,,Otros,,off,2026-04-02
 7502301451817,Vegan Protein,Aby,,,,Abarrotes,,off,2026-04-02
+7502303450016,Margarina sin sal principado,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/230/345/0016/front_es.3.200.jpg,off,2026-11-13
+7502303450047,Asturias mantequilla sin sal pura de vaca,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/230/345/0047/front_es.3.200.jpg,off,2026-11-13
 7502303910046,HydroFuel Citricos,Quenut,,,,Otros,https://images.openfoodfacts.org/images/products/750/230/391/0046/front_es.3.200.jpg,off,2026-04-02
 7502304750429,Rolis caramelo 100g,,,,,Dulces,https://images.openfoodfacts.org/images/products/750/230/475/0429/front_en.3.200.jpg,off,2025-09-02
 7502307925305,Chocolate Gourmet Belga,Pure Delta,,,,Dulces,,off,2026-04-02
@@ -18375,6 +18446,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503004938131,"Cosecha p'urhepecha, hot sauce of habanero chile",Cosecha P'Urhepecha,,,,Abarrotes,,off,2020-04-22
 7503004938230,Hot sauce of red habanero chile,Cosecha P'Urhepecha,,,,Abarrotes,,off,2020-04-22
 7503004976416,xtreme gle 1.95,,,,,Otros,https://images.openfoodfacts.org/images/products/750/300/497/6416/front_en.3.200.jpg,off,2026-10-13
+7503004977017,Café puro tostado y molido la parroquia de Veracruz,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/300/497/7017/front_es.5.200.jpg,off,2026-11-13
 7503004987221,Queso Cotija Rallado Del Parral,Del Parral,300,g,300 g,Lácteos,https://images.openfoodfacts.org/images/products/750/300/498/7221/front_es.4.200.jpg,off,2026-04-02
 7503004987238,Queso cotija del parral,Alimentos Dolce,300,g,300 g,Lácteos,https://images.openfoodfacts.org/images/products/750/300/498/7238/front_es.7.200.jpg,off,2026-09-05
 7503004988013,Paleta de caramelo suave,,,,,Dulces,https://images.openfoodfacts.org/images/products/750/300/498/8013/front_en.3.200.jpg,off,2024-09-15
@@ -18426,6 +18498,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503005701093,Mole verde,,,,,Abarrotes,,off,2020-04-23
 7503005734015,agua de coco,frescarib,500,ml,500 ml,Bebidas,https://images.openfoodfacts.org/images/products/750/300/573/4015/front_es.3.200.jpg,off,2025-05-19
 7503005775025,Piitoria SC,,,,,Otros,,off,2026-03-26
+7503005775087,Barra de cacahuate Chico,Don Palanqueto,,,,Botanas,https://images.openfoodfacts.org/images/products/750/300/577/5087/front_en.3.200.jpg,off,2026-11-12
 7503005779160,Mezcal,,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/300/577/9160/front_fr.3.200.jpg,off,2026-03-19
 7503005803117,Mole Red,,1.5,,1.5 Tbsp,Abarrotes,,off,2025-04-19
 7503005803155,Emperador,,,,,Otros,https://images.openfoodfacts.org/images/products/750/300/580/3155/front_en.3.200.jpg,off,2023-01-26
@@ -18920,7 +18993,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503011006083,Chicles orgánicos lima,Chicza,30,g,30g,Dulces,https://images.openfoodfacts.org/images/products/750/301/100/6083/front_es.52.200.jpg,off,2026-03-15
 7503011006090,Chicles orgánicos frutos del bosque,Chicza,30,g,30 g,Dulces,https://images.openfoodfacts.org/images/products/750/301/100/6090/front_es.28.200.jpg,off,2026-05-07
 7503011006236,Organic mayan rainforest chewing gum coffee,Chicza,30,g,30 g,Dulces,https://images.openfoodfacts.org/images/products/750/301/100/6236/front_it.10.200.jpg,off,2025-07-17
-7503011006304,Chewing-gums menthe,,,,,Otros,https://images.openfoodfacts.org/images/products/750/301/100/6304/front_fr.3.200.jpg,off,2022-12-20
+7503011006304,Chewing-gums menthe,Chicza,10,,10,Dulces,https://images.openfoodfacts.org/images/products/750/301/100/6304/front_fr.3.200.jpg,off,2026-11-12
 7503011006328,Chicza Organic Mayan Rainforest Chewing Gum Lime,,30,g,30 g,Otros,https://images.openfoodfacts.org/images/products/750/301/100/6328/front_fr.4.200.jpg,off,2023-04-29
 7503011006489,Wild mint Organic mayan rainforest chewing gum,Chicza,30,g,30 g,Dulces,https://images.openfoodfacts.org/images/products/750/301/100/6489/front_it.11.200.jpg,off,2026-03-30
 7503011006540,Organic mayan rainforest chewing gum lime sugar free,Chicza,30,g,30 g,Dulces,https://images.openfoodfacts.org/images/products/750/301/100/6540/front_it.5.200.jpg,off,2025-07-17
@@ -19204,6 +19277,8 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503014995292,"Mielcom, Orange Blossom Honey",Mexinc Products,,,,Otros,,off,2017-03-09
 7503015026056,Salsa abanera cut,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/301/502/6056/front_fr.3.200.jpg,off,2026-03-26
 7503015026070,Habanera picante Rachef,,,,,Otros,https://images.openfoodfacts.org/images/products/750/301/502/6070/front_fr.3.200.jpg,off,2025-07-30
+7503015074323,Café combate café mezclado con 20% de azúcar caramelizada,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/301/507/4323/front_es.3.200.jpg,off,2026-11-13
+7503015074477,Café combate,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/301/507/4477/front_es.3.200.jpg,off,2026-11-12
 7503015131309,Salsa Zapote Negro,Chili Pines,200,g,200g,Abarrotes,,off,2026-05-14
 7503015131774,Chapulines,,,,,Otros,https://images.openfoodfacts.org/images/products/750/301/513/1774/front_fr.3.200.jpg,off,2026-03-26
 7503015131965,Hibiscus Salsa,Tejolote,,,,Abarrotes,,off,2026-03-14
@@ -19528,7 +19603,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503018034621,Untable sabor a chocolate,Obela,198.4,g,"198,4 gr",Abarrotes,https://images.openfoodfacts.org/images/products/750/301/803/4621/front_fr.3.200.jpg,off,2026-04-02
 7503018034690,Hummus Clásico y Tostitos,Obela,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/301/803/4690/front_es.3.200.jpg,off,2026-03-28
 7503018034720,Humus snack chipotle,,,,,Botanas,https://images.openfoodfacts.org/images/products/750/301/803/4720/front_es.3.200.jpg,off,2024-03-09
-7503018053127,Cacahuate blanco tostado,,,,,Botanas,,off,2026-04-02
+7503018053127,Cacahuate blanco tostado,,,,,Botanas,https://images.openfoodfacts.org/images/products/750/301/805/3127/front_en.5.200.jpg,off,2026-11-13
 7503018053332,Nuez de la india,,,,,Botanas,,off,2026-04-02
 7503018053554,Almendra Natural,Saladino,150,g,150g,Botanas,https://images.openfoodfacts.org/images/products/750/301/805/3554/front_es.4.200.jpg,off,2026-04-02
 7503018053578,nuez mixta,Saladino,,,,Botanas,https://images.openfoodfacts.org/images/products/750/301/805/3578/front_en.3.200.jpg,off,2026-09-10
@@ -19860,6 +19935,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503020257797,crema de cacahuete,De mi pueblo,,,,Lácteos,,off,2024-10-09
 7503020257810,creo de cacahuate,,,,,Botanas,https://images.openfoodfacts.org/images/products/750/302/025/7810/front_en.3.200.jpg,off,2024-11-14
 7503020257827,Crema de cacahuate con cocoa,De Mi Pueblo,300,ml,300 ml,Lácteos,https://images.openfoodfacts.org/images/products/750/302/025/7827/front_ro.14.200.jpg,off,2026-04-02
+7503020262722,Queso cotija mi capricho,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/302/026/2722/front_es.3.200.jpg,off,2026-11-12
 7503020264061,Pesto,,,,,Otros,,off,2026-04-02
 7503020264108,Embutidos,,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/750/302/026/4108/front_en.3.200.jpg,off,2025-11-07
 7503020264184,Oaxaca ahumado,Mi tierra,,,,Lácteos,,off,2026-04-02
@@ -19987,6 +20063,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503021292148,Mini paletas de mango maracuya Holistik,Holistik,224,g,224 g,Congelados,https://images.openfoodfacts.org/images/products/750/302/129/2148/front_es.9.200.jpg,off,2026-04-02
 7503021293053,Mini snacks sin azúcar Picard,Picard Chocolates,180,g,180 g,Dulces,https://images.openfoodfacts.org/images/products/750/302/129/3053/front_es.6.200.jpg,off,2026-04-02
 7503021293220,Vanuato kakaw,,,,,Dulces,https://images.openfoodfacts.org/images/products/750/302/129/3220/front_fr.4.200.jpg,off,2026-07-20
+7503021293237,100% Chocolate con Leche,Vanuatu Kaokaw,,,,Lácteos,,off,2026-11-15
 7503021293282,Dark Kakaw Chocolate,,,,,Dulces,https://images.openfoodfacts.org/images/products/750/302/129/3282/front_fr.3.200.jpg,off,2026-04-02
 7503021313560,Cheesecake Oreo,Vips,750,g,750 g,Lácteos,https://images.openfoodfacts.org/images/products/750/302/131/3560/front_es.8.200.jpg,off,2026-04-02
 7503021321206,Zoé flavored water,,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/302/132/1206/front_fr.3.200.jpg,off,2026-04-02
@@ -20235,6 +20312,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503023220002,Oblea Choco,Caxa Amaranto,,,,Panadería,https://images.openfoodfacts.org/images/products/750/302/322/0002/front_es.3.200.jpg,off,2026-04-02
 7503023220019,Oblea Choco Blanco,Caxa Amaranto,,,,Panadería,,off,2026-04-02
 7503023220033,Oblea Blanco / Choco,Caya Amaranto,,,,Panadería,https://images.openfoodfacts.org/images/products/750/302/322/0033/front_en.3.200.jpg,off,2025-10-22
+7503023220156,Churros de Amaranto Sabor Linaza,Caxa Amaranto,,,,Abarrotes,,off,2026-11-13
 7503023220385,Oblea 0% azúcar blanco / choco,Caxa Amaranto,,,,Panadería,https://images.openfoodfacts.org/images/products/750/302/322/0385/front_en.3.200.jpg,off,2026-11-07
 7503023220613,Oblea Vegana Cacao,Caxa Amaranto,,,,Panadería,,off,2026-08-05
 7503023220651,Oblea Vegana Linaza,Caya Amaranto,,,,Panadería,https://images.openfoodfacts.org/images/products/750/302/322/0651/front_en.3.200.jpg,off,2025-10-01
@@ -20414,10 +20492,13 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503023963824,Protein WP100 Caramel Cheesecake,Evolution,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/302/396/3824/front_en.3.200.jpg,off,2026-09-18
 7503023963848,Cinnamon Vanilla Latte Wp100 Protein,Evolution Nutrition,,,,Abarrotes,,off,2026-07-17
 7503023963855,100% Whey Protein,Evolution Wp100,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/302/396/3855/front_en.8.200.jpg,off,2026-04-02
+7503024027044,Café de olla solo Dios,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/302/402/7044/front_es.3.200.jpg,off,2026-11-12
 7503024027112,Café De Chiapas,,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/302/402/7112/front_fr.3.200.jpg,off,2026-04-01
+7503024027259,Café abanico café de grano,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/302/402/7259/front_es.3.200.jpg,off,2026-11-12
 7503024085945,La botanera,Mega alimentos,430,,430 mñ,Abarrotes,https://images.openfoodfacts.org/images/products/750/302/408/5945/front_es.4.200.jpg,off,2026-04-02
 7503024085990,7503024085990,,,,,Otros,https://images.openfoodfacts.org/images/products/750/302/408/5990/front_es.3.200.jpg,off,2025-12-18
 7503024135749,Chocolate Vainilla,María Tepoztlán,,,,Dulces,,off,2026-11-08
+7503024135770,Chocolate Xocolatl Tequila,Maria Tepoztlán,,,,Dulces,,off,2026-11-16
 7503024135800,Chocolate Xocolatl,María Tepoztlán,,,,Dulces,https://images.openfoodfacts.org/images/products/750/302/413/5800/front_en.3.200.jpg,off,2026-08-22
 7503024174243,Pollo en mole,Cocina de Piedra,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/750/302/417/4243/front_en.3.200.jpg,off,2026-04-02
 7503024174694,Chorizo Con Papa,Cocina De Piedra,,,,Carnes y embutidos,,off,2026-04-02
@@ -20511,6 +20592,8 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503024779486,Muffin rifel,Rifel,100,g,100g,Dulces,,off,2026-04-02
 7503024779622,brownie chocolate,,,,,Dulces,https://images.openfoodfacts.org/images/products/750/302/477/9622/front_es.5.200.jpg,off,2026-06-28
 7503024779639,brownie nuez,rifel,60,g,60 g,Botanas,https://images.openfoodfacts.org/images/products/750/302/477/9639/front_es.3.200.jpg,off,2026-07-12
+7503024779745,Cuadrado rifel 43g,,,,,Otros,https://images.openfoodfacts.org/images/products/750/302/477/9745/front_es.3.200.jpg,off,2026-11-12
+7503024779752,Choco rifel 34g,,,,,Otros,https://images.openfoodfacts.org/images/products/750/302/477/9752/front_es.3.200.jpg,off,2026-11-12
 7503024800555,Chocolate Keto Friendly Barks,,,,,Dulces,https://images.openfoodfacts.org/images/products/750/302/480/0555/front_es.6.200.jpg,off,2026-03-28
 7503024804058,bv botanas valdez,,,,,Botanas,,off,2026-03-28
 7503024821000,Meta Max,Meta Nutrition,,,,Otros,,off,2026-04-02
@@ -20662,7 +20745,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503025998039,Protein Bar,HP,,,,Abarrotes,,off,2025-09-21
 7503026029015,limpieza multi superficie lavanda,pledge,,,,Otros,https://images.openfoodfacts.org/images/products/750/302/602/9015/front_es.3.200.jpg,off,2026-05-25
 7503026029183,lavanda,pledge,,,,Otros,https://images.openfoodfacts.org/images/products/750/302/602/9183/front_es.3.200.jpg,off,2026-05-20
-7503026029695,off baby,scjohnson,,,,Bebés,,off,2025-04-23
+7503026029695,off baby,scjohnson,,,,Bebés,https://images.openfoodfacts.org/images/products/750/302/602/9695/front_en.4.200.jpg,off,2026-11-14
 7503026036068,Tostadas,,,,,Panadería,,off,2026-04-02
 7503026079430,Refined Avocado Oil,NBF,,,,Otros,,off,2024-06-19
 7503026079447,Extra Virgin Avocado Oil,NBF,,,,Otros,,off,2024-06-19
@@ -21385,6 +21468,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503033202135,Kurumaya,Cacahuate Japones,140,g,140g,Otros,https://images.openfoodfacts.org/images/products/750/303/320/2135/front_de.3.200.jpg,off,2023-06-08
 7503033202326,Alaranth bars,,,,,Otros,https://images.openfoodfacts.org/images/products/750/303/320/2326/front_en.3.200.jpg,off,2024-11-14
 7503033319420,Chips De Manzana,Huerta Alegre,,,,Botanas,,off,2026-10-08
+7503033319437,Chips De Manzana Con Chile,Huerto Alegre,,,,Botanas,,off,2026-11-12
 7503033360316,rollo de coco con pasas,destellos,250,g,250g,Botanas,https://images.openfoodfacts.org/images/products/750/303/336/0316/front_es.3.200.jpg,off,2025-05-12
 7503033454954,Queso Mezcla Mexicana,Don Domingo,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/303/345/4954/front_es.3.200.jpg,off,2026-04-02
 7503033553077,Fresa,Mentos,29.04,g,"29,04g",Dulces,https://images.openfoodfacts.org/images/products/750/303/355/3077/front_es.4.200.jpg,off,2026-04-02
@@ -21555,6 +21639,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503035893140,Carne Seca De Res,Gran Jefe,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/750/303/589/3140/front_es.3.200.jpg,off,2025-12-23
 7503035893157,Carne Seca,Gran Jefe,,,,Carnes y embutidos,,off,2025-11-01
 7503035899005,Amarea obleas,,,,,Panadería,https://images.openfoodfacts.org/images/products/750/303/589/9005/front_fr.3.200.jpg,off,2023-01-09
+7503035899548,Obleas Protein Chocolate,Amarea,,,,Panadería,https://images.openfoodfacts.org/images/products/750/303/589/9548/front_es.3.200.jpg,off,2026-11-14
 7503035899555,Oblea con proteína,Amarea,,,,Panadería,,off,2026-11-10
 7503035932108,Hojuela de papa,Las Toluqueñas,60,g,60 g,Otros,https://images.openfoodfacts.org/images/products/750/303/593/2108/front_es.3.200.jpg,off,2023-02-14
 7503036022112,Organic Chia Seeds/Semillas Orgánicas de Chía,NBF,,,,Botanas,,off,2024-06-19
@@ -22126,7 +22211,9 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7503058288084,Obleas De Amaranto Sabor Taro,Come Verde,,,,Panadería,,off,2026-11-04
 7503058288091,Obleas De Amaranto Sabor Frutos Rojos,Come verde,,,,Panadería,,off,2026-11-05
 7503058288107,Mix de Obleas,Come Verde,,,,Panadería,,off,2026-11-06
+7503058288206,Obleas de amaranto sabor pan de muerto,Come Verde,,,,Panadería,,off,2026-11-12
 7503058288213,Obleas Amaranto Pumpkin Spice,Come Verde,,,,Panadería,,off,2026-10-15
+7503058428817,Chicharron chile y limon bitz 35g,,,,,Carnes y embutidos,,off,2026-11-12
 7503060141056,Lasaña de Carne en su Jugo,Tucumán,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/750/306/014/1056/front_en.3.200.jpg,off,2026-07-06
 7503060415003,Grape Tomatoes Finka,,283,g,12x1 pt 283 grs,Otros,,off,2026-04-27
 7503061517126,Papas Onduladas Con Sabor A La Botanera,NaturaSol,,,,Botanas,,off,2026-08-22
@@ -23187,6 +23274,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7506443109209,Yogurt Griego Frutos Rojos,Oikos,,,,Lácteos,,off,2026-04-29
 7506443109278,DanUp sabor cookies,DanUp,350,g,350g,Panadería,https://images.openfoodfacts.org/images/products/750/644/310/9278/front_es.6.200.jpg,off,2025-12-17
 7506443109377,Dan mix Oreo,Danone,110,g,110g,Lácteos,https://images.openfoodfacts.org/images/products/750/644/310/9377/front_es.3.200.jpg,off,2026-10-29
+7506443109452,Danone natural azucarado 650 g,,,,,Otros,https://images.openfoodfacts.org/images/products/750/644/310/9452/front_es.3.200.jpg,off,2026-11-14
 7506443109469,Oikos Pro Cookies And Cream,Danone,,,,Panadería,,off,2026-05-02
 7506443109476,Oikos Pro,Oikos,,,,Otros,https://images.openfoodfacts.org/images/products/750/644/310/9476/front_en.3.200.jpg,off,2026-08-12
 7506443109483,Oikos Pro Cookies And Cream,Oikos,,,,Panadería,https://images.openfoodfacts.org/images/products/750/644/310/9483/front_en.3.200.jpg,off,2026-06-22
@@ -23341,6 +23429,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7506475116213,Creerías miel,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/750/647/511/6213/front_en.3.200.jpg,off,2025-06-25
 7506475116848,Nestlé nido1 5.95,,,,,Otros,https://images.openfoodfacts.org/images/products/750/647/511/6848/front_en.3.200.jpg,off,2026-10-01
 7506475116893,Cereal Con Malvaviscos,Trix,,,,Dulces,https://images.openfoodfacts.org/images/products/750/647/511/6893/front_en.12.200.jpg,off,2026-04-02
+7506475116978,Café Descafeinado Fina Selección Frasco,Nescafé,100,g,100 g,Abarrotes,,off,2026-11-12
 7506475116992,Licuado Con Yogurt Fresa Moras,Nestlé,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/647/511/6992/front_es.3.200.jpg,off,2026-08-07
 7506475117173,Crunch rocks,Nestlé,43,g,43g,Otros,https://images.openfoodfacts.org/images/products/750/647/511/7173/front_es.3.200.jpg,off,2026-06-28
 7506475117241,Coffee Mate,Nestlé,,,,Otros,,off,2026-04-02
@@ -23573,6 +23662,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7506495069254,Deslactosada,Great Value,,,,Otros,,off,2025-10-12
 7506495069261,Café Soluble,Great Value,200,g,200 g,Bebidas,https://images.openfoodfacts.org/images/products/750/649/506/9261/front_es.4.200.jpg,off,2026-01-22
 7506495069292,Tostadas,,,,,Panadería,,off,2026-04-02
+7506495069353,Sopa Instantánea sabor a Pollo,Great Value,,,,Carnes y embutidos,,off,2026-11-15
 7506495069506,Pure Honey,Great Value,,,,Abarrotes,,off,2026-04-02
 7506495069551,Papas a la francesa onduladas,Great Value,,,,Botanas,,off,2026-11-03
 7506495069568,Papas con finas hierbas,Great Value,,,,Botanas,,off,2026-08-05
@@ -23623,6 +23713,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7506495089245,Jugo Rojo,Great Value,,,,Bebidas,https://images.openfoodfacts.org/images/products/750/649/508/9245/front_es.7.200.jpg,off,2026-11-09
 7506495092665,Palomitas extra mantequilla,Great Value,,,,Lácteos,,off,2026-03-23
 7506495092672,palomitas,7 506495. 092672,,,,Botanas,,off,2025-10-20
+7506495094751,"Granola con almendra, arándano y mora azul",Great Value,,,,Botanas,,off,2026-11-13
 7506495095307,Ensalada Rusa,Great Value,,,,Otros,https://images.openfoodfacts.org/images/products/750/649/509/5307/front_en.3.200.jpg,off,2026-10-04
 7506495095314,Wok Mix Oriental,Extra Special,,,,Botanas,https://images.openfoodfacts.org/images/products/750/649/509/5314/front_en.3.200.jpg,off,2026-09-24
 7506495095338,Papas Con Hierbas Provenzales,Extra Special,,,,Botanas,,off,2026-06-04
@@ -23661,6 +23752,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7506634911123,Curls Sabor Queso,Valley Foods,,,,Lácteos,,off,2026-09-26
 7506634936973,Mezcla Primavera Valley Foods,Valley Foods,,,,Abarrotes,,off,2026-07-22
 7506634946675,Aceite de Aguacate,Valley Foods,,,,Abarrotes,,off,2026-11-12
+7506634946934,Queso manchego Precissimo,,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/663/494/6934/front_es.3.200.jpg,off,2026-11-12
 75066390,Nugs 20gr,De La Rosa,,,,Otros,https://images.openfoodfacts.org/images/products/75066390/front_es.5.200.jpg,off,2026-03-28
 7506656100109,M&M's Crema de Cacahuate,M&M's,,,,Lácteos,https://images.openfoodfacts.org/images/products/750/665/610/0109/front_ro.3.200.jpg,off,2026-09-14
 7506658205659,Stranger Things Gomitas,Great Value,,,,Dulces,,off,2026-04-02
@@ -23841,6 +23933,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7509546062471,Luminous White Brilliant Crema dental anticaries con flúor,Colgate,50,ml,50ml,Higiene personal,https://images.openfoodfacts.org/images/products/750/954/606/2471/front_es.3.200.jpg,off,2026-07-15
 7509546063447,Lady speed stick,,,,,Higiene personal,,obf,2026-10-06
 7509546063515,pro 5,lady speed stick,,,,Otros,https://images.openfoodfacts.org/images/products/750/954/606/3515/front_en.6.200.jpg,off,2026-04-30
+7509546063645,speed stick x5,speed stick,150,ml,150ml,Higiene personal,https://images.openbeautyfacts.org/images/products/750/954/606/3645/front_es.11.200.jpg,obf,2026-11-14
 7509546064864,Max white expert original,Colgate,75,ml,75 ml,Higiene personal,https://images.openbeautyfacts.org/images/products/750/954/606/4864/front_it.5.200.jpg,obf,2025-08-22
 7509546067513,suavitel,suavitel,800,ml,800mililitros,Abarrotes,https://images.openfoodfacts.org/images/products/750/954/606/7513/front_es.6.200.jpg,off,2022-02-10
 7509546067902,Desodorante spray derma renueva,speed stick,150,ml,150ml,Higiene personal,https://images.openbeautyfacts.org/images/products/750/954/606/7902/front_es.3.200.jpg,obf,2026-08-05
@@ -23954,7 +24047,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7509546687124,Acondicionador NB,,,,,Higiene personal,https://images.openbeautyfacts.org/images/products/750/954/668/7124/front_es.3.200.jpg,obf,2025-05-04
 7509546687261,MaxFresh Cool Mint,Colgate,,,,Higiene personal,https://images.openbeautyfacts.org/images/products/750/954/668/7261/front_en.3.200.jpg,obf,2026-07-31
 7509546687810,jabon Milk x 4,Colgate Palmolive S.a de C.v,,,,Higiene personal,https://images.openbeautyfacts.org/images/products/750/954/668/7810/front_es.3.200.jpg,obf,2026-09-23
-7509546688220,Antitraspirante,LADY SPEED Stick,150,,150,Otros,https://images.openfoodfacts.org/images/products/750/954/668/8220/front_es.3.200.jpg,off,2026-07-25
+7509546688220,Antitraspirante,LADY SPEED Stick,150,,150,Otros,https://images.openfoodfacts.org/images/products/750/954/668/8220/front_es.3.200.jpg,off,2026-11-14
 7509546688596,Lady speed stick carbón 45g,speed stick,45,g,45g,Otros,https://images.openfoodfacts.org/images/products/750/954/668/8596/front_en.3.200.jpg,off,2026-01-03
 7509546689449,Palmolive,,,,,Higiene personal,https://images.openbeautyfacts.org/images/products/750/954/668/9449/front_es.4.200.jpg,obf,2026-10-01
 7509546689487,Suavitel Momentos magicos,,,,,Otros,,off,2025-06-04
@@ -24193,6 +24286,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7622210575401,Galleta Oreo original,Oreo,63,g,63 g,Panadería,https://images.openfoodfacts.org/images/products/762/221/057/5401/front_es.7.200.jpg,off,2026-08-08
 7622210575456,oreo original,Oreo,147,g,147 gr,Panadería,https://images.openfoodfacts.org/images/products/762/221/057/5456/front_es.3.200.jpg,off,2026-08-08
 7622210575609,Galletas Oreo Vainilla,Nabisco,105,g,105 g,Panadería,https://images.openfoodfacts.org/images/products/762/221/057/5609/front_es.13.200.jpg,off,2026-08-08
+7622210576231,Chips Ahoy!,Nabisco,,,,Botanas,,off,2026-11-15
 7622210576781,Tang sabor limón,,,,,Otros,https://images.openfoodfacts.org/images/products/762/221/057/6781/front_en.3.200.jpg,off,2025-06-06
 7622210576811,Tang de fresa,,,,,Otros,https://images.openfoodfacts.org/images/products/762/221/057/6811/front_en.3.200.jpg,off,2025-06-07
 7622210576910,Tang sabor horchata,,,,,Bebidas,https://images.openfoodfacts.org/images/products/762/221/057/6910/front_en.3.200.jpg,off,2026-11-11
@@ -24341,7 +24435,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7800141225187,Salmon Porciones,Camanchaca,,,,Otros,https://images.openfoodfacts.org/images/products/780/014/122/5187/front_es.3.200.jpg,off,2026-04-02
 7801610350652,Coca-Cola Zero Azucar,Coca-Cola,2.5,l,2.5Litros,Abarrotes,https://images.openfoodfacts.org/images/products/780/161/035/0652/front_es.22.200.jpg,off,2026-08-08
 7801610481547,Gin Agua Tónica,,,,,Bebidas,https://images.openfoodfacts.org/images/products/780/161/048/1547/front_fr.3.200.jpg,off,2026-04-02
-7801620011611,watts,watts,1,,1,Abarrotes,https://images.openfoodfacts.org/images/products/780/162/001/1611/front_es.9.200.jpg,off,2026-07-28
+7801620011611,Néctar de Durazno Botella,Watts,1.5,l,1.5 L,Bebidas,https://images.openfoodfacts.org/images/products/780/162/001/1611/front_es.9.200.jpg,off,2026-11-12
 7802000009280,Stax sabor Crema y Cebolla,Lay's,140,g,140 g,Abarrotes,https://images.openfoodfacts.org/images/products/780/200/000/9280/front_es.4.200.jpg,off,2026-03-25
 78020757,Sapito Rellenos con Leche y Cereales,Arcor,10,g,10 g,Lácteos,https://images.openfoodfacts.org/images/products/78020757/front_es.13.200.jpg,off,2026-04-02
 7802225426336,Chubi,Arcor,150,g,150 g,Lácteos,https://images.openfoodfacts.org/images/products/780/222/542/6336/front_es.39.200.jpg,off,2026-03-27
@@ -24349,7 +24443,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7802225511186,Bon o bon Chocolate,Arcor,450,g,450 g (30 x 15 g),Lácteos,https://images.openfoodfacts.org/images/products/780/222/551/1186/front_es.16.200.jpg,off,2026-03-28
 7802225511513,Bon o Bon,Arcor,450,g,450 g (30 x 15 g),Dulces,https://images.openfoodfacts.org/images/products/780/222/551/1513/front_es.25.200.jpg,off,2026-03-28
 7802225511537,bon o bon blanco,Arcor,450,g,450 g (30 x 15 g),Dulces,https://images.openfoodfacts.org/images/products/780/222/551/1537/front_es.5.200.jpg,off,2026-03-28
-7802225640770,bon o bon cookie's,Bon o Bon,95,g,95 g,Panadería,https://images.openfoodfacts.org/images/products/780/222/564/0770/front_es.9.200.jpg,off,2026-07-03
+7802225640770,Paquete Galletas Bon O Bon Pasta de maní Bolsa,Arcor,95,g,95 g,Panadería,https://images.openfoodfacts.org/images/products/780/222/564/0770/front_es.9.200.jpg,off,2026-11-12
 7802225688024,Limón,Arcor,135,g,135 g,Panadería,https://images.openfoodfacts.org/images/products/780/222/568/8024/front_es.9.200.jpg,off,2026-03-27
 7802225688048,Choc Kiss,Arcor,135,g,135 g,Panadería,https://images.openfoodfacts.org/images/products/780/222/568/8048/front_es.3.200.jpg,off,2026-03-28
 7802225688758,Rocklets Galletas sabor Vainilla,Arcor,165,g,165 g,Panadería,https://images.openfoodfacts.org/images/products/780/222/568/8758/front_es.6.200.jpg,off,2026-03-27
@@ -24377,7 +24471,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7804686560017,Barra De Proteina Vegetal Sabor Chocolate,Keto Protein,,,,Dulces,https://images.openfoodfacts.org/images/products/780/468/656/0017/front_en.3.200.jpg,off,2026-03-17
 7804686560048,Keto Protein,Granolin,,,,Abarrotes,,off,2026-04-02
 7805000301392,Light mayonesa,Hellmann's,,,,Abarrotes,,off,2026-04-02
-7809558101947,Daily Stevia Endulzante Liquido,Daily,180,ml,180 ml,Abarrotes,https://images.openfoodfacts.org/images/products/780/955/810/1947/front_es.15.200.jpg,off,2026-04-02
+7809558101947,Endulzante Líquido Stevia Botella,Daily,180,ml,180 ml,Abarrotes,https://images.openfoodfacts.org/images/products/780/955/810/1947/front_es.15.200.jpg,off,2026-11-12
 7809558104573,Stevia Edulcorante de Mesa Líquido,Daily,100,ml,100 ml,Abarrotes,,off,2026-04-02
 7809611707437,Arrachera Al Pastor De Pavo,Dos Familias,,,,Carnes y embutidos,,off,2026-04-02
 7811000103065,Chocotorro,Wonder,50,g,50g,Panadería,https://images.openfoodfacts.org/images/products/781/100/010/3065/front_es.5.200.jpg,off,2025-11-30
@@ -24391,7 +24485,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7891000382912,Kit Kat Mini Moments Caramelo,Nestlé,,,,Dulces,https://images.openfoodfacts.org/images/products/789/100/038/2912/front_es.4.200.jpg,off,2026-04-02
 7891000395707,Snack Puffs Tomate,Gerber,,,,Botanas,https://images.openfoodfacts.org/images/products/789/100/039/5707/front_en.3.200.jpg,off,2026-04-02
 7891000395745,Puffs Calabacita - Snack para tu bebé,Gerber,,,,Bebés,https://images.openfoodfacts.org/images/products/789/100/039/5745/front_es.7.200.jpg,off,2026-04-02
-7891000405451,KitKat Cereal,Nestlé,,,,Abarrotes,https://images.openfoodfacts.org/images/products/789/100/040/5451/front_es.3.200.jpg,off,2026-04-02
+7891000405451,Cereal Chocolate,Kit Kat,210,g,210 g,Dulces,https://images.openfoodfacts.org/images/products/789/100/040/5451/front_es.3.200.jpg,off,2026-11-12
 7891000417034,Kitkat triple chocolate,,,,,Dulces,https://images.openfoodfacts.org/images/products/789/100/041/7034/front_en.3.200.jpg,off,2026-01-19
 7891000442326,KitKat White,Nestlé,,,,Otros,,off,2026-08-10
 7891010035617,gohnsons,baby,,,,Otros,,off,2024-08-21
@@ -24405,6 +24499,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 7896058258110,Panettone con Trocitos sabor a Chocolate,Arcor,500,g,500 g,Panadería,https://images.openfoodfacts.org/images/products/789/605/825/8110/front_es.4.200.jpg,off,2026-04-02
 7897701100145,Crutones Integrales,Fhom,90,g,90 g,Abarrotes,https://images.openfoodfacts.org/images/products/789/770/110/0145/front_es.5.200.jpg,off,2026-04-02
 7898019860646,Larvafin,,,,,Otros,https://images.openproductsfacts.org/images/products/789/801/986/0646/front_es.3.200.jpg,opf,2026-11-06
+7898019862633,Impacto Pulverización,,,,,Otros,,opf,2026-11-12
 7898019869908,Múltiples Reforzado,,,,,Otros,https://images.openproductsfacts.org/images/products/789/801/986/9908/front_es.3.200.jpg,opf,2026-11-06
 7898024390107,caja Ferrero Rocher,Ferrero Rocher,200,g,200g,Dulces,https://images.openfoodfacts.org/images/products/789/802/439/0107/front_es.39.200.jpg,off,2026-06-24
 7898024395331,Ferrero 24 piezas,Ferrero,300,g,300g,Dulces,https://images.openfoodfacts.org/images/products/789/802/439/5331/front_es.26.200.jpg,off,2026-11-11
@@ -24706,7 +24801,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 8412600022825,Pan de molde integral,Bimbo,450,g,450 g,Abarrotes,https://images.openfoodfacts.org/images/products/841/260/002/2825/front_es.5.200.jpg,off,2026-03-03
 8412600024324,Thins,Silueta,312,g,"310 g, (8 * 39 g)",Abarrotes,https://images.openfoodfacts.org/images/products/841/260/002/4324/front_es.35.200.jpg,off,2026-03-27
 8412600024485,Pan 12 cereales y semillas,Bimbo,590,g,590 g,Abarrotes,https://images.openfoodfacts.org/images/products/841/260/002/4485/front_es.68.200.jpg,off,2026-03-25
-8412600028568,Rebanada estilo artesano,Bimbo,500,g,500 g,Abarrotes,https://images.openfoodfacts.org/images/products/841/260/002/8568/front_es.48.200.jpg,off,2026-10-31
+8412600028568,Rebanada estilo artesano,Bimbo,500,g,500 g,Abarrotes,https://images.openfoodfacts.org/images/products/841/260/002/8568/front_es.48.200.jpg,off,2026-11-13
 8412600029343,Pan de molde 100% natural integral,Bimbo,450,g,450g,Abarrotes,https://images.openfoodfacts.org/images/products/841/260/002/9343/front_es.79.200.jpg,off,2026-09-24
 8412600029886,"Pan de molde con cereales, semillas y frutos rojos completo",oroweat,,,,Abarrotes,https://images.openfoodfacts.org/images/products/841/260/002/9886/front_es.10.200.jpg,off,2026-03-03
 8412600100325,Pan de molde sin corteza,Bimbo,450,g,450 g,Abarrotes,https://images.openfoodfacts.org/images/products/841/260/010/0325/front_es.86.200.jpg,off,2026-10-31
@@ -24733,7 +24828,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 8423298000545,Angulas de Surimi con camarones,Angulas Mayoz Aguinaga,115,g,115 g,Carnes y embutidos,https://images.openfoodfacts.org/images/products/842/329/800/0545/front_es.7.200.jpg,off,2026-04-02
 8425930142255,Sardinas,Baymar Gourmet,,,,Enlatados,https://images.openfoodfacts.org/images/products/842/593/014/2255/front_en.6.200.jpg,off,2026-11-01
 8426572071255,Fuet Catalan,Joada,150,g,150 g,Carnes y embutidos,https://images.openfoodfacts.org/images/products/842/657/207/1255/front_es.22.200.jpg,off,2026-03-21
-8427610000060,Huevas de arenque tarrina,Avruga,55,g,"55g, 120g, 350g, 900g",Enlatados,https://images.openfoodfacts.org/images/products/842/761/000/0060/front_es.31.200.jpg,off,2026-09-05
+8427610000060,Huevas de arenque tarrina,Avruga,55,g,"55g, 120g, 350g, 900g",Enlatados,https://images.openfoodfacts.org/images/products/842/761/000/0060/front_es.31.200.jpg,off,2026-11-13
 8435037806806,Bio pan rallado espelta,Sol Natural,300,g,300 g,Abarrotes,https://images.openfoodfacts.org/images/products/843/503/780/6806/front_es.12.200.jpg,off,2026-04-02
 8435434304417,Paella De Mariscos,Congelados De Navarra,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/843/543/430/4417/front_pt.3.200.jpg,off,2026-04-02
 8435474436314,Ambientair Spray Perfumado Bamboo + Citronella,Ambientair,250,ml,250 ml,Abarrotes,https://images.openfoodfacts.org/images/products/843/547/443/6314/front_es.3.200.jpg,off,2026-08-30
@@ -24815,14 +24910,19 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 8719200223462,Primavera 110g,,,,,Otros,https://images.openfoodfacts.org/images/products/871/920/022/3462/front_en.3.200.jpg,off,2025-06-24
 8719200303508,Margarina Light Pasteurizada con sal,Iberia,480,g,480g,Abarrotes,https://images.openfoodfacts.org/images/products/871/920/030/3508/front_es.3.200.jpg,off,2026-08-01
 8719200316485,Iberia ajo y cebolla,,,,,Otros,https://images.openfoodfacts.org/images/products/871/920/031/6485/front_en.3.200.jpg,off,2026-10-27
+8719200327733,Primavera,,,,,Otros,https://images.openfoodfacts.org/images/products/871/920/032/7733/front_es.3.200.jpg,off,2026-11-13
 8719200450370,mantequilla con sal,iberia,400,g,400g,Abarrotes,https://images.openfoodfacts.org/images/products/871/920/045/0370/front_es.3.200.jpg,off,2026-09-10
+8719200450394,Primavera margarina con sal,,,,,Lácteos,https://images.openfoodfacts.org/images/products/871/920/045/0394/front_es.4.200.jpg,off,2026-11-13
 8719200450455,Margarina Primavera Chantilly Chantilly pasteurizada con sal,Primavera,190,g,190g,Abarrotes,https://images.openfoodfacts.org/images/products/871/920/045/0455/front_es.4.200.jpg,off,2026-04-02
 8719200450462,margarins pasteurizada con sal,Rama,,,,Abarrotes,https://images.openfoodfacts.org/images/products/871/920/045/0462/front_en.3.200.jpg,off,2023-12-06
 8719200450486,Primavera sin sal,,,,,Abarrotes,https://images.openfoodfacts.org/images/products/871/920/045/0486/front_en.3.200.jpg,off,2026-10-27
 8719200450523,Margarina Iberia,Iberia,225,g,225g,Abarrotes,https://images.openfoodfacts.org/images/products/871/920/045/0523/front_en.16.200.jpg,off,2026-04-02
 8719200450578,Margarina Sin Sal Iberia 4 en 1 Contenido 500 gr,Iberia,500,g,500 gr,Abarrotes,https://images.openfoodfacts.org/images/products/871/920/045/0578/front_es.3.200.jpg,off,2026-03-10
+8719200450592,Mantequilla iberia,,,,,Lácteos,https://images.openfoodfacts.org/images/products/871/920/045/0592/front_es.3.200.jpg,off,2026-11-13
 8719200450615,Margarina Iberia 4 en 1 sin sal,Iberia,90,g,90 g,Abarrotes,https://images.openfoodfacts.org/images/products/871/920/045/0615/front_es.15.200.jpg,off,2026-08-22
+8719200450622,Margarina sin sal primavera,,,,,Lácteos,https://images.openfoodfacts.org/images/products/871/920/045/0622/front_es.3.200.jpg,off,2026-11-13
 8719200450646,Iberia suave con sal,Iberia,,,,Abarrotes,https://images.openfoodfacts.org/images/products/871/920/045/0646/front_en.5.200.jpg,off,2026-10-27
+8719200450677,Primavera margarina pasteurizada sin sal 4 * 3,,,,,Lácteos,https://images.openfoodfacts.org/images/products/871/920/045/0677/front_es.3.200.jpg,off,2026-11-13
 8741784876055,Stila Guayaba y Mora Acai,Quaker,150,g,150 g,Abarrotes,https://images.openfoodfacts.org/images/products/874/178/487/6055/front_es.6.200.jpg,off,2026-04-02
 8785201379620,Aceite de zanahoria,La Paloma productos naturales,,,,Abarrotes,,off,2025-08-11
 8801128304870,café negro de bts rm,bts,,,,Abarrotes,,off,2024-10-29
@@ -24872,6 +24972,7 @@ codigo,nombre,marca,cantidad,unidad,contenido,categoria,imagen,fuente,actualizad
 9560309598055,Julimoy chicharron,,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/956/030/959/8055/front_en.3.200.jpg,off,2025-06-25
 9571125664923,Sidral Mundet 600,,,,,Otros,https://images.openfoodfacts.org/images/products/957/112/566/4923/front_en.3.200.jpg,off,2026-06-23
 9704315099018,Perla negra,Jeg's,355,ml,355ml,Bebidas,https://images.openproductsfacts.org/images/products/970/431/509/9018/front_es.6.200.jpg,opf,2025-10-21
+9770192214806,Mantequilla Alpura,,,,,Lácteos,https://images.openfoodfacts.org/images/products/977/019/221/4806/front_es.3.200.jpg,off,2026-11-13
 9772292009283,Fue salchicha con pavo 266g,,,,,Carnes y embutidos,https://images.openfoodfacts.org/images/products/977/229/200/9283/front_en.3.200.jpg,off,2025-05-25
 9772716402201,Pepe guates ajo botanero,,,,,Otros,https://images.openfoodfacts.org/images/products/977/271/640/2201/front_en.3.200.jpg,off,2026-10-27
 9775327754752,Savile,,,,,Otros,https://images.openfoodfacts.org/images/products/977/532/775/4752/front_en.3.200.jpg,off,2025-05-17
