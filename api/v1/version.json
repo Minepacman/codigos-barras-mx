@@ -1,39 +1,39 @@
 {
   "version": 1,
-  "fecha": "2026-11-16",
-  "productos": 24988,
+  "fecha": "2026-11-23",
+  "productos": 24679,
   "por_fuente": {
-    "obf": 575,
-    "off": 24129,
-    "opf": 210,
-    "opff": 74
+    "obf": 596,
+    "off": 23768,
+    "opf": 239,
+    "opff": 76
   },
   "por_categoria": {
-    "Abarrotes": 6393,
-    "Bebidas": 2118,
-    "Bebés": 174,
-    "Botanas": 1406,
-    "Carnes y embutidos": 1445,
-    "Congelados": 405,
-    "Dulces": 1139,
-    "Enlatados": 422,
-    "Higiene personal": 1055,
-    "Limpieza": 104,
-    "Lácteos": 2738,
-    "Mascotas": 107,
-    "Otros": 5903,
-    "Panadería": 1579
+    "Abarrotes": 6200,
+    "Bebidas": 2087,
+    "Bebés": 179,
+    "Botanas": 1378,
+    "Carnes y embutidos": 1452,
+    "Congelados": 407,
+    "Dulces": 1126,
+    "Enlatados": 414,
+    "Higiene personal": 1069,
+    "Limpieza": 105,
+    "Lácteos": 2692,
+    "Mascotas": 109,
+    "Otros": 5905,
+    "Panadería": 1556
   },
   "fragmentos": 1000,
   "esquema_fragmentos": "api/v1/<ultimos 3 digitos del codigo normalizado>.json",
   "archivos": {
     "catalogo-mx.csv": {
-      "sha256": "9cd8a4bbb329c35626b7c32a72cda20544a9f4ccc4d165a2aad0b755a6a97dbb",
-      "bytes": 3511024
+      "sha256": "ae487f974b3ce48b4a9eb4cff7dd2ad01f0281ffae6928237a9f84d6b14779a0",
+      "bytes": 3460863
     },
     "catalogo-mx.jsonl": {
-      "sha256": "f2ac956cfc354b87f53d58cb90b224101a1e030c3a80ed205eb45b15e6e0e3a0",
-      "bytes": 7091314
+      "sha256": "b3e2d26c01c33907b8bc3154fabacdb441bd4efeac2db208a141642d569e06b3",
+      "bytes": 6997680
     }
   },
   "atribucion": "Contiene información de Open Food Facts, disponible bajo la Open Database License (ODbL)"
